@@ -91,7 +91,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 <strong><span class='show_paper_citations' data='OXCVj48AAAAJ:WF5omc3nYNoC'></span></strong> \| 
 [![](https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&label=Code+Stars)](https://github.com/blacksnail789521/TimeDRL) 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/xa7oc-Rzw5Y)
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/LyDl77cS7Ko)
 
 - TimeDRL is a self-supervised learning framework for multivariate time-series data that learns disentangled timestamp- and instance-level embeddings without relying on augmentations. It introduces dual-level objectives for predictive and contrastive learning, and achieves strong performance across forecasting and classification tasks, even in low-label scenarios.
 
@@ -109,7 +109,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 - ``NeurIPS 2024 (Workshop: Time Series in the Age of Large Models)`` [Text2Freq: Learning Series Patterns from Text via Frequency Domain](https://arxiv.org/abs/2411.00929), Ming-Chih Lo, **Ching Chang**, Wen-Chih Peng.
 
-<!-- - ``ICDE 2024`` [TimeDRL: Disentangled Representation Learning for Multivariate Time-Series](https://arxiv.org/abs/2312.04142), **Ching Chang**, Chiao-Tung Chan, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen. [![](https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&label=Code+Stars)](https://github.com/blacksnail789521/TimeDRL) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/xa7oc-Rzw5Y) -->
+<!-- - ``ICDE 2024`` [TimeDRL: Disentangled Representation Learning for Multivariate Time-Series](https://arxiv.org/abs/2312.04142), **Ching Chang**, Chiao-Tung Chan, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen. [![](https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&label=Code+Stars)](https://github.com/blacksnail789521/TimeDRL) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/LyDl77cS7Ko) -->
 
 - ``CIKM 2024`` [COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data](https://arxiv.org/abs/2312.04142), Ting-Yun Ou, **Ching Chang**, Wen-Chih Peng. [![](https://img.shields.io/github/stars/outingyun/coke?style=social&label=Code+Stars)](https://github.com/outingyun/coke)  
 
@@ -130,7 +130,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 - *2023.08*, **LLM Industry-Academia Technical Exchange Conference**, National Center for High-Performance Computing  
   Delivered a talk on **Time-Series Analysis with LLMs**, discussing the use of large language models for analyzing time-series data and their potential applications in industry.  
-  Shared the stage with **Hung-Yi Lee** and **Hsiang-Tsung Kung**. [![Website](https://img.shields.io/badge/Website-Link-blue?logo=google-chrome&style=flat-square)](https://nycuaib.web.nycu.edu.tw/) [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1eRCoS0OoDHh_-kxDZ4pckEiLAWY6jB9q/view?usp=sharing) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/hHoyOjZx1IE)
+  Shared the stage with **Hung-Yi Lee** and **Hsiang-Tsung Kung**. [![Website](https://img.shields.io/badge/Website-Link-blue?logo=google-chrome&style=flat-square)](https://nycuaib.web.nycu.edu.tw/) [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1eRCoS0OoDHh_-kxDZ4pckEiLAWY6jB9q/view?usp=sharing) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/QJOEW8PUidY)
 
 # 🎓 Academic Services  
 
