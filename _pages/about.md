@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ching (Jason) Chang | AI Researcher | UCLA & NYCU"
-excerpt: "Personal website of Ching (Jason) Chang, PhD candidate at NYCU and Visiting Researcher at UCLA. Research in AI, Time-Series Analysis, Causal Discovery."
+excerpt: "Personal website of Ching (Jason) Chang, PhD candidate at NYCU and Visiting Researcher at UCLA. Research in AI, Time Series Analysis, Causal Discovery."
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,7 @@ redirect_from:
 
 Hello 👋, My name is Ching Chang, also known as Jason Chang, and I am a PhD candidate (ABD) in Computer Science at National Yang Ming Chiao Tung University (NYCU), Taiwan, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/). Currently, I am a Visiting Graduate Researcher in Computer Science at UCLA, working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).  
 
-My research focuses on Time-Series Analysis, Large Foundation Models, Causal Discovery, and Multimodal Reasoning. I have published multiple papers in top AI and data science conferences and journals, including NeurIPS, AAAI, ICDE, CIKM, and ACM TIST, with total
+My research focuses on Time Series Analysis, Large Foundation Models, Causal Discovery, and Multimodal Reasoning. I have published multiple papers in top AI and data science conferences and journals, including NeurIPS, AAAI, ICDE, CIKM, and ACM TIST, with total
 <a href='https://scholar.google.com/citations?user=OXCVj48AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
 I have also served as a reviewer for 31 papers across top-tier conferences and journals, including ICDE, KDD, NeurIPS, ICLR, AAAI, TNNLS, and ACM TIST.
 
@@ -41,10 +41,10 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 # 💻 Work Experience
 
 - *2022.09 – 2025.02*, **Research Scientist (Intern)**, TSMC, Hsinchu, Taiwan  
-  Root Cause Analysis · Causal Discovery · Time-Series Analysis  
+  Root Cause Analysis · Causal Discovery · Time Series Analysis  
 
 - *2021.01 – 2025.01*, **Research Scientist (Intern)**, GoEdge.ai, Hsinchu, Taiwan  
-  Time-Series Analysis · Large Foundation Models · Causal Discovery  
+  Time Series Analysis · Large Foundation Models · Causal Discovery  
 
 - *2019.07 – 2020.12*, **Machine Learning Engineer**, TSMC, Hsinchu, Taiwan  
   Root Cause Analysis  
@@ -72,7 +72,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 <strong><span class='show_paper_citations' data='OXCVj48AAAAJ:Zph67rFs4hoC'></span></strong> \| [![](https://img.shields.io/github/stars/blacksnail789521/LLM4TS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/LLM4TS)
 
-- LLM4TS is a framework that adapts pre-trained Large Language Models for multivariate time-series forecasting through a two-stage fine-tuning process. It captures multi-scale temporal patterns and achieves state-of-the-art performance across full-shot and few-shot settings.
+- LLM4TS is a framework that adapts pre-trained Large Language Models for multivariate time series forecasting through a two-stage fine-tuning process. It captures multi-scale temporal patterns and achieves state-of-the-art performance across full-shot and few-shot settings.
 
 </div>
 </div>
@@ -94,7 +94,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 [![](https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&label=Code+Stars)](https://github.com/blacksnail789521/TimeDRL) 
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/LyDl77cS7Ko)
 
-- TimeDRL is a self-supervised learning framework for multivariate time-series data that learns disentangled timestamp- and instance-level embeddings without relying on augmentations. It introduces dual-level objectives for predictive and contrastive learning, and achieves strong performance across forecasting and classification tasks, even in low-label scenarios.
+- TimeDRL is a self-supervised learning framework for multivariate time series data that learns disentangled timestamp- and instance-level embeddings without relying on augmentations. It introduces dual-level objectives for predictive and contrastive learning, and achieves strong performance across forecasting and classification tasks, even in low-label scenarios.
 
 </div>
 </div>
@@ -130,7 +130,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 # 💬 Invited Talks
 
 - *2023.08*, **LLM Industry-Academia Technical Exchange Conference**, National Center for High-Performance Computing  
-  Delivered a talk on **Time-Series Analysis with LLMs**, discussing the use of large language models for analyzing time-series data and their potential applications in industry.  
+  Delivered a talk on **Time Series Analysis with LLMs**, discussing the use of large language models for analyzing time series data and their potential applications in industry.  
   Shared the stage with **Hung-Yi Lee** and **Hsiang-Tsung Kung**. [![Website](https://img.shields.io/badge/Website-Link-blue?logo=google-chrome&style=flat-square)](https://nycuaib.web.nycu.edu.tw/) [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1eRCoS0OoDHh_-kxDZ4pckEiLAWY6jB9q/view?usp=sharing) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/QJOEW8PUidY)
 
 # 🎓 Academic Services  
