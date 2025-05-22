@@ -23,8 +23,8 @@ My research focuses on Time Series Analysis, Large Foundation Models, Causal Dis
 <a href='https://scholar.google.com/citations?user=OXCVj48AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
 I have also served as a reviewer for 31 papers across top-tier conferences and journals, including ICDE, KDD, NeurIPS, ICLR, AAAI, TNNLS, and ACM TIST.
 
-<!-- If you’re interested in collaboration, feel free to contact me at blacksnail789521@gmail.com.  -->
-If you’re interested in collaboration, feel free to contact me at [blacksnail789521@gmail.com](mailto:blacksnail789521@gmail.com).
+<!-- If you're interested in collaboration, feel free to contact me at blacksnail789521@gmail.com.  -->
+If you're interested in collaboration, feel free to contact me at [blacksnail789521@gmail.com](mailto:blacksnail789521@gmail.com).
 You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8OSQdDivrsxibaa-aeC_EphcOlx/view?usp=sharing).
 
 <!-- # 🔥 News
@@ -135,6 +135,6 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 # 🎓 Academic Services  
 
-- **Reviewer for Conferences**: ICDE’24, KDD’24, NeurIPS’24, ICLR’25, AAAI’25, KDD’25  
-- **Reviewer for Journals**: TNNLS’25, TIST’25  
-- **Student Volunteer**: AAAI’24  
+- **Reviewer for Conferences**: ICDE'24, KDD'24, NeurIPS'24, ICLR'25, AAAI'25, KDD'25, ICML'25
+- **Reviewer for Journals**: TNNLS'25, TIST'25  
+- **Student Volunteer**: AAAI'24  
