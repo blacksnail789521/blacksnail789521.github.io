@@ -120,6 +120,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 # 🎖 Honors and Awards
 
+- *2025.06* **Outstanding Reviewer Award (Top 10% of Reviewers)**, KDD 2025, Toronto, Canada  
 - *2024.11* **Overseas Postgraduate Research Fellowship Program**, National Science and Technology Council, Taipei, Taiwan  
 - *2024.06* **International Conference Scholarship**, National Yang Ming Chiao Tung University, Taipei, Taiwan  
 - *2024.05* **International Conference Scholarship**, National Science and Technology Council, Taipei, Taiwan  
