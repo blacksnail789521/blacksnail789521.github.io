@@ -57,6 +57,18 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 # 📝 Publications
 
+<style>
+.paper-box-image {
+  background-color: white; /* force white behind image */
+}
+
+.paper-box-image img {
+  background-color: white; /* if PNG has transparency */
+  display: block;
+  width: 100%;
+}
+</style>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
