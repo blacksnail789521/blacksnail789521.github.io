@@ -90,7 +90,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 **Ching Chang**, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen
 
-<strong><span class='show_paper_citations' data='OXCVj48AAAAJ:Zph67rFs4hoC'></span></strong> \| [![](https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/PromptTSS)
+<strong><span class='show_paper_citations' data='OXCVj48AAAAJ:aqlVkmm33-oC'></span></strong> \| [![](https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/PromptTSS)
 
 - PromptTSS is a framework that unifies coarse- and fine-grained time series segmentation using prompts for dynamic adaptation. It achieves substantial accuracy gains in segmentation and transfer learning, showing strong effectiveness for hierarchical, evolving time series.
 
