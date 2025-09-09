@@ -151,9 +151,24 @@ code {
     background-color: rgba(0, 0, 0, 0.05);
     padding: 0.2em 0.4em;
     border-radius: 4px;
-  }
-  
-  body.dark code {
+}
+
+body.dark code {
     background-color: rgba(255, 255, 255, 0.1);
     color: var(--text-color);
-  }
+}
+
+
+/* Make sidebar items follow light/dark theme */
+.author__urls li {
+  color: var(--text-color) !important;   /* text changes with mode */
+}
+
+.author__urls li i {
+  color: currentColor !important;        /* icons match the text color */
+}
+
+/* Keep links inheriting from the li color (matches ResearchGate behavior) */
+.author__urls a {
+  color: inherit !important;
+}
