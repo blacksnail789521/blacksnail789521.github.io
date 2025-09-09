@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Ching Chang, but you can call me Jason. I am a PhD candidate (ABD) in Computer Science at National Yang Ming Chiao Tung University (NYCU), Taiwan, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/). Currently, I am a Visiting Graduate Researcher in Computer Science at UCLA, working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).  
+Hello 👋, My name is Ching Chang, also known as Jason Chang, and I am a PhD candidate (ABD) in Computer Science at National Yang Ming Chiao Tung University (NYCU), Taiwan, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/). Currently, I am a Visiting Graduate Researcher in Computer Science at UCLA, working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).  
 
 My research focuses on Time Series Analysis, Large Foundation Models, Causal Discovery, and Multimodal Reasoning. I have published multiple papers in top AI and data science conferences and journals, including NeurIPS, AAAI, ICDE, CIKM, and ACM TIST, with total
 <a href='https://scholar.google.com/citations?user=OXCVj48AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
@@ -31,14 +31,14 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# Education
+# 📖 Education
 
 - *2021.09 – 2026.03 (Expected)*, **National Yang Ming Chiao Tung University (NYCU), Taiwan**, PhD in Computer Science (ABD)  
 - *2025.02 – 2026.02 (Expected)*, **University of California, Los Angeles (UCLA), USA**, Visiting Graduate Researcher in Computer Science  
 - *2016.09 – 2018.09*, **National Chiao Tung University (NCTU), Taiwan**, MSc in Computer Science and Engineering  
 - *2012.09 – 2016.06*, **National Chiao Tung University (NCTU), Taiwan**, BSc in Electrical and Computer Engineering
 
-# Work Experience
+# 💻 Work Experience
 
 - *2022.09 – 2025.02*, **Research Scientist (Intern)**, TSMC, Hsinchu, Taiwan  
   Root Cause Analysis · Causal Discovery · Time Series Analysis  
@@ -55,7 +55,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 - *2016.07 – 2016.08*, **Software Engineer (Intern)**, MediaTek, Hsinchu, Taiwan  
   Multimedia Firmware
 
-# Publications
+# 📝 Publications
 
 <style>
 .paper-box-image {
@@ -150,7 +150,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 - ``Preprint`` [Detecting and Ranking Causal Anomalies in End-to-End Complex System](https://arxiv.org/abs/2301.07281), **Ching Chang**, Wen-Chih Peng.
 
-# Honors and Awards
+# 🎖 Honors and Awards
 
 - *2025.06* **Outstanding Reviewer Award (Top 10% of Reviewers)**, KDD 2025, Toronto, Canada  
 - *2024.11* **Overseas Postgraduate Research Fellowship Program**, National Science and Technology Council, Taipei, Taiwan  
@@ -160,7 +160,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 - *2022.02* **Xin Miao Key Technology Doctoral Scholarship**, Xin Miao Education Foundation, Taipei, Taiwan  
 - *2021.09* **Industry-Academia Cooperative PhD Project Scholarship**, Ministry of Education Republic of China (Taiwan), Taipei, Taiwan  
 
-# Invited Talks
+# 💬 Invited Talks
 - *2025.06*, **Advanced Time Series Analysis Techniques for Industrial and Manufacturing Applications**, *University of Southern California (USC)*
   Delivered a talk on cutting-edge time series analysis methods tailored for deployment in industrial and manufacturing settings.
   [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1eD-53hLCqnPFsS0EYF8BpSBT8IRjnZSv/view?usp=sharing)
@@ -169,10 +169,10 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
   Discussed the use of large language models for analyzing time series data and their potential applications in industry.  
   Shared the stage with **Hung-Yi Lee** and **Hsiang-Tsung Kung**. [![Website](https://img.shields.io/badge/Website-Link-blue?logo=google-chrome&style=flat-square)](https://nycuaib.web.nycu.edu.tw/) [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1eRCoS0OoDHh_-kxDZ4pckEiLAWY6jB9q/view?usp=sharing) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/QJOEW8PUidY)
 
-# Academic Services  
+# 🎓 Academic Services  
 
 - **Reviewer for Conferences**: ICDE'24, KDD'24, NeurIPS'24, ICLR'25, AAAI'25, KDD'25, ICML'25, NeurIPS'25, KDD'26, AAAI'26, WWW'26
 - **Reviewer for Journals**: TNNLS'25, TIST'25, TMLR'25, TSC'25, ESWA'25
 - **Student Volunteer**: AAAI'24
 
-# Visitors
+# 👤 Visitors
