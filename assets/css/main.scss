@@ -175,7 +175,7 @@ body.dark code {
 
 /* Keep the map inside the left edge of the content column */
 .page__content #map-container {
-  margin-top: 1.5rem;
+  // margin-top: 1.5rem;
   display: inline-block;      /* shrink to map width -> sits on the left */
   text-align: left;
 }
