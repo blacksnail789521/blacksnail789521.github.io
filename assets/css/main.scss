@@ -173,12 +173,16 @@ body.dark code {
   color: inherit !important;
 }
 
-/* ClustrMaps: force left align inside the content column */
+/* Keep the map inside the left edge of the content column */
 .page__content #map-container {
-  margin-top: 1.5rem;     /* space above the map */
-  text-align: left;       /* for any inline elements */
+  margin-top: 1.5rem;
+  display: inline-block;      /* shrink to map width -> sits on the left */
+  text-align: left;
 }
 
-.page__content #map-container > div {
-  margin: 0 !important;   /* override widget's auto-centering */
+/* Kill any auto-centering the widget injects */
+.page__content #map-container *,
+.page__content #map-container [id^="clustrmaps"] {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
