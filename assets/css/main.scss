@@ -172,3 +172,13 @@ body.dark code {
 .author__urls a {
   color: inherit !important;
 }
+
+/* ClustrMaps: force left align inside the content column */
+.page__content #map-container {
+  margin-top: 1.5rem;     /* space above the map */
+  text-align: left;       /* for any inline elements */
+}
+
+.page__content #map-container > div {
+  margin: 0 !important;   /* override widget's auto-centering */
+}
