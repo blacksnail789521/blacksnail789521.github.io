@@ -72,6 +72,27 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">arXiv 2025</div>
+      <img src='images/papers/tsreasoningsurvey.pdf' alt="Time-Series-Reasoning-Survey" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://arxiv.org/abs/2509.11575)
+
+**Ching Chang**, Yidan Shi, Defu Cao, Wei Yang, Jeehyun Hwang, Haixin Wang, Jiacheng Pang, Wei Wang, Yan Liu, Wen-Chih Peng, Tien-Fu Chen
+
+<strong><span class='show_paper_citations' data='OXCVj48AAAAJ:Zph67rFs4hoC'></span></strong> \| [![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey)
+
+- Defines **time series reasoning** and organizes the field via a **two-level taxonomy**: (1) reasoning topology (direct, linear chain, branch-structured) × (2) primary objectives (traditional TS analysis, explanation/understanding, causal inference/decision making, and TS generation).  
+- Introduces a compact **attribute tag set** (decomposition, verification, ensembling, tool use, knowledge access, multimodality, agent loops, and alignment regimes) and curates **research & non-research** resources with guidance on evaluation and deployment.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">ACM TIST 2025</div>
       <img src='images/papers/llm4ts.png' alt="LLM4TS" width="100%">
     </div>
