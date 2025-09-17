@@ -21,7 +21,7 @@ Hello 👋, My name is Ching Chang, also known as Jason Chang, and I am a PhD ca
 
 My research focuses on Time Series Analysis, Large Foundation Models, Causal Discovery, and Multimodal Reasoning. I have published multiple papers in top AI and data science conferences and journals, including NeurIPS, AAAI, ICDE, CIKM, and ACM TIST, with total
 <a href='https://scholar.google.com/citations?user=OXCVj48AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
-I have also served as a reviewer for 31 papers across top-tier conferences and journals, including ICDE, KDD, NeurIPS, ICLR, AAAI, TNNLS, and ACM TIST.
+I have also served as a reviewer for 491 papers across top-tier conferences and journals, including ICML, KDD, NeurIPS, ICLR, AAAI, WWW, TNNLS, and ACM TIST.
 
 <!-- If you're interested in collaboration, feel free to contact me at blacksnail789521@gmail.com.  -->
 If you're interested in collaboration, feel free to contact me at [blacksnail789521@gmail.com](mailto:blacksnail789521@gmail.com).
@@ -192,7 +192,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 # 🎓 Academic Services  
 
-- **Reviewer for Conferences**: ICDE'24, KDD'24, NeurIPS'24, ICLR'25, AAAI'25, KDD'25, ICML'25, NeurIPS'25, KDD'26, AAAI'26, WWW'26
+- **Reviewer for Conferences**: ICDE'24, KDD'24, NeurIPS'24, ICLR'25, AAAI'25, KDD'25, ICML'25, NeurIPS'25, KDD'26, AAAI'26, WWW'26, ICLR'26
 - **Reviewer for Journals**: TNNLS'25, TIST'25, TMLR'25, TSC'25, ESWA'25
 - **Student Volunteer**: AAAI'24
 
