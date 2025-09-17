@@ -73,7 +73,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv 2025</div>
-      <img src='images/papers/tsreasoningsurvey.pdf' alt="Time-Series-Reasoning-Survey" width="100%">
+      <img src='images/papers/tsreasoningsurvey.png' alt="Time-Series-Reasoning-Survey" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
