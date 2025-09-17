@@ -84,8 +84,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 <strong><span class='show_paper_citations' data='OXCVj48AAAAJ:Zph67rFs4hoC'></span></strong> \| [![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey)
 
-- Defines **time series reasoning** and organizes the field via a **two-level taxonomy**: (1) reasoning topology (direct, linear chain, branch-structured) × (2) primary objectives (traditional TS analysis, explanation/understanding, causal inference/decision making, and TS generation).  
-- Introduces a compact **attribute tag set** (decomposition, verification, ensembling, tool use, knowledge access, multimodality, agent loops, and alignment regimes) and curates **research & non-research** resources with guidance on evaluation and deployment.
+- Defines **time-series reasoning** through a **two-level taxonomy** (reasoning topology × primary objectives) and a compact **attribute tag set** (e.g., decomposition, verification, tool use, multimodality, alignment), while curating research and non-research works with guidance on evaluation and deployment.
 
 </div>
 </div>
