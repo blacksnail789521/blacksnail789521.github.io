@@ -78,11 +78,12 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
   </div>
   <div class='paper-box-text' markdown="1">
 
-[A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://arxiv.org/abs/2506.10412)
+[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](https://arxiv.org/abs/2506.10412)
 
 **Ching Chang**, Jeehyun Hwang, Yidan Shi, Haixin Wang, Wen-Chih Peng, Tien-Fu Chen, Wei Wang
 
-<strong><span class='show_paper_citations' data='OXCVj48AAAAJ:qxL8FJ1GzNcC'></span></strong> \| [![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey)
+<strong><span class='show_paper_citations' data='OXCVj48AAAAJ:qxL8FJ1GzNcC'></span></strong> \| 
+<!-- [![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey) -->
 
 - Time-IMM is a comprehensive benchmark and open-source library designed for irregular, multimodal time series. It introduces nine real-world datasets across diverse domains and provides tools for fusing asynchronous text with numeric signals, showing that multimodal integration can significantly enhance forecasting in complex, real-world settings.
 
