@@ -139,7 +139,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
   </div>
   <div class='paper-box-text' markdown="1">
 
-[PromptTSS: A Prompt-based Framework for Time Series Forecasting](https://doi.org/10.1145/3746252.3761142)
+[PromptTSS: A Prompting-Based Approach for Interactive Multi-Granularity Time Series Segmentation](https://doi.org/10.1145/3746252.3761142)
 
 **Ching Chang**, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen
 
