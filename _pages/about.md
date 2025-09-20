@@ -72,6 +72,26 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">NeurIPS 2025</div>
+      <img src='images/papers/timeimm.png' alt="Time-IMM" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://arxiv.org/abs/2506.10412)
+
+**Ching Chang**, Jeehyun Hwang, Yidan Shi, Haixin Wang, Wen-Chih Peng, Tien-Fu Chen, Wei Wang
+
+<strong><span class='show_paper_citations' data='OXCVj48AAAAJ:qxL8FJ1GzNcC'></span></strong> \| [![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey)
+
+- Time-IMM is a comprehensive benchmark and open-source library designed for irregular, multimodal time series. It introduces nine real-world datasets across diverse domains and provides tools for fusing asynchronous text with numeric signals, showing that multimodal integration can significantly enhance forecasting in complex, real-world settings.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">arXiv 2025</div>
       <img src='images/papers/tsreasoningsurvey.png' alt="Time-Series-Reasoning-Survey" width="100%">
     </div>
@@ -82,7 +102,7 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 **Ching Chang**, Yidan Shi, Defu Cao, Wei Yang, Jeehyun Hwang, Haixin Wang, Jiacheng Pang, Wei Wang, Yan Liu, Wen-Chih Peng, Tien-Fu Chen
 
-<strong><span class='show_paper_citations' data='OXCVj48AAAAJ:Zph67rFs4hoC'></span></strong> \| [![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey)
+<strong><span class='show_paper_citations' data='OXCVj48AAAAJ:Wp0gIr-vW9MC'></span></strong> \| [![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey)
 
 - Defines **time-series reasoning** through a **two-level taxonomy** (reasoning topology × primary objectives) and a compact **attribute tag set** (e.g., decomposition, verification, tool use, multimodality, alignment), while curating research and non-research works with guidance on evaluation and deployment.
 
