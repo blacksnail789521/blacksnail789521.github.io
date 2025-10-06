@@ -202,6 +202,10 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 - *2021.09* **Industry-Academia Cooperative PhD Project Scholarship**, Ministry of Education Republic of China (Taiwan), Taipei, Taiwan  
 
 # 💬 Invited Talks
+- *2025.09*, **Time Series AI for Strategic Business Intelligence and Manufacturing Optimization**, *TSMC AI4BI Innovation Center*
+  Delivered a talk on leveraging AI-driven time series analysis to generate actionable business intelligence.
+  [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1oSLXOhx9DsBxLB8m9pm_-qHbnNIGPHxf/view?usp=sharing)
+
 - *2025.06*, **Advanced Time Series Analysis Techniques for Industrial and Manufacturing Applications**, *University of Southern California (USC)*
   Delivered a talk on cutting-edge time series analysis methods tailored for deployment in industrial and manufacturing settings.
   [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1eD-53hLCqnPFsS0EYF8BpSBT8IRjnZSv/view?usp=sharing)
