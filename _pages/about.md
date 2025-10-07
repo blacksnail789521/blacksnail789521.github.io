@@ -203,14 +203,17 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 # 💬 Invited Talks
 - *2025.09*, **Time Series AI for Strategic Business Intelligence and Manufacturing Optimization**, *TSMC AI4BI Innovation Center*
+  
   Delivered a talk on leveraging AI-driven time series analysis to generate actionable business intelligence.
   [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1oSLXOhx9DsBxLB8m9pm_-qHbnNIGPHxf/view?usp=sharing)
 
 - *2025.06*, **Advanced Time Series Analysis Techniques for Industrial and Manufacturing Applications**, *University of Southern California (USC)*
+  
   Delivered a talk on cutting-edge time series analysis methods tailored for deployment in industrial and manufacturing settings.
   [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1eD-53hLCqnPFsS0EYF8BpSBT8IRjnZSv/view?usp=sharing)
 
 - *2023.08*, **Time Series Analysis with LLMs**, *LLM Industry-Academia Technical Exchange Conference, National Center for High-Performance Computing*
+  
   Discussed the use of large language models for analyzing time series data and their potential applications in industry.  
   Shared the stage with **Hung-Yi Lee** and **Hsiang-Tsung Kung**. [![Website](https://img.shields.io/badge/Website-Link-blue?logo=google-chrome&style=flat-square)](https://nycuaib.web.nycu.edu.tw/) [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://drive.google.com/file/d/1eRCoS0OoDHh_-kxDZ4pckEiLAWY6jB9q/view?usp=sharing) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/QJOEW8PUidY)
 
