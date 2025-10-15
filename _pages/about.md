@@ -83,7 +83,8 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 **Ching Chang**, Jeehyun Hwang, Yidan Shi, Haixin Wang, Wen-Chih Peng, Tien-Fu Chen, Wei Wang
 
 <strong><span class='show_paper_citations' data='OXCVj48AAAAJ:qxL8FJ1GzNcC'></span></strong> \| 
-<!-- [![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey) -->
+[![](https://img.shields.io/github/stars/blacksnail789521/Time-IMM?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-IMM) \| 
+[![](https://img.shields.io/badge/Project-Website-blue?style=flat)](https://blacksnail789521.github.io/time-imm-project-page/)
 
 - Time-IMM is a comprehensive benchmark and open-source library designed for irregular, multimodal time series. It introduces nine real-world datasets across diverse domains and provides tools for fusing asynchronous text with numeric signals, showing that multimodal integration can significantly enhance forecasting in complex, real-world settings.
 
