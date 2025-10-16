@@ -82,8 +82,8 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 **Ching Chang**, Jeehyun Hwang, Yidan Shi, Haixin Wang, Wen-Chih Peng, Tien-Fu Chen, Wei Wang
 
-{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="qxL8FJ1GzNcC" %} \| 
-[![](https://img.shields.io/github/stars/blacksnail789521/Time-IMM?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-IMM) \| 
+{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="qxL8FJ1GzNcC" %}
+[![](https://img.shields.io/github/stars/blacksnail789521/Time-IMM?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-IMM)
 [![](https://img.shields.io/badge/Project-Website-blue?style=flat)](https://blacksnail789521.github.io/time-imm-project-page/)
 
 - Time-IMM is a comprehensive benchmark and open-source library designed for irregular, multimodal time series. It introduces nine real-world datasets across diverse domains and provides tools for fusing asynchronous text with numeric signals, showing that multimodal integration can significantly enhance forecasting in complex, real-world settings.
@@ -104,7 +104,8 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 **Ching Chang**, Yidan Shi, Defu Cao, Wei Yang, Jeehyun Hwang, Haixin Wang, Jiacheng Pang, Wei Wang, Yan Liu, Wen-Chih Peng, Tien-Fu Chen
 
-{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Wp0gIr-vW9MC" %} \| [![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey)
+{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Wp0gIr-vW9MC" %}
+[![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey)
 
 - Defines time-series reasoning through a two-level taxonomy (reasoning topology × primary objectives) and a compact attribute tag set (e.g., decomposition, verification, tool use, multimodality, alignment), while curating research and non-research works with guidance on evaluation and deployment.
 
@@ -124,7 +125,8 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 **Ching Chang**, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen
 
-{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Zph67rFs4hoC" %} \| [![](https://img.shields.io/github/stars/blacksnail789521/LLM4TS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/LLM4TS)
+{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Zph67rFs4hoC" %}
+[![](https://img.shields.io/github/stars/blacksnail789521/LLM4TS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/LLM4TS)
 
 - LLM4TS is a framework that adapts pre-trained Large Language Models for multivariate time series forecasting through a two-stage fine-tuning process. It captures multi-scale temporal patterns and achieves state-of-the-art performance across full-shot and few-shot settings.
 
@@ -144,7 +146,10 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 **Ching Chang**, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen
 
-{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="aqlVkmm33-oC" %} \| [![](https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/PromptTSS)
+{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="aqlVkmm33-oC" %}
+[![](https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/PromptTSS)
+[![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat-square)](https://docs.google.com/presentation/d/1V0LVSP-4VTjj-B81AIC64TM9LHXgisJo/edit?usp=sharing&ouid=102526612289511924674&rtpof=true&sd=true)
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat-square)](https://youtu.be/u5teQmsHsHI)
 
 - PromptTSS is a framework that unifies coarse- and fine-grained time series segmentation using prompts for dynamic adaptation. It achieves substantial accuracy gains in segmentation and transfer learning, showing strong effectiveness for hierarchical, evolving time series.
 
