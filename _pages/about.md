@@ -40,20 +40,20 @@ You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8
 
 # 💻 Work Experience
 
+- *2025.09 – Now*, **Research Consultant**, TSMC, Hsinchu, Taiwan  
+  - Improved prediction accuracy by 5.52% through model calibration and data-driven diagnostic analysis.
+
 - *2022.09 – 2025.02*, **Research Scientist (Intern)**, TSMC, Hsinchu, Taiwan  
-  Root Cause Analysis · Causal Discovery · Time Series Analysis  
+  - Improved root-cause localization accuracy by up to 71.5% and causal graph accuracy by 62.6% on manufacturing data through neural and graph-attention causal models.
 
 - *2021.01 – 2025.01*, **Research Scientist (Intern)**, GoEdge.ai, Hsinchu, Taiwan  
-  Time Series Analysis · Large Foundation Models · Causal Discovery  
+  - Reduced forecasting MSE by 4.3% and improved segmentation accuracy by 10.86% on production-scale datasets using large-language-model-based time-series systems.
 
 - *2019.07 – 2020.12*, **Machine Learning Engineer**, TSMC, Hsinchu, Taiwan  
-  Root Cause Analysis  
 
 - *2018.04 – 2018.09*, **Machine Learning Engineer (Intern)**, EPISTAR, Hsinchu, Taiwan  
-  Root Cause Analysis  
 
 - *2016.07 – 2016.08*, **Software Engineer (Intern)**, MediaTek, Hsinchu, Taiwan  
-  Multimedia Firmware
 
 # 📝 Publications
 
