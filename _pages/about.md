@@ -25,7 +25,8 @@ I have also served as a reviewer for 67 papers across top-tier conferences and j
 
 <!-- If you're interested in collaboration, feel free to contact me at blacksnail789521@gmail.com.  -->
 If you're interested in collaboration, feel free to contact me at [blacksnail789521@gmail.com](mailto:blacksnail789521@gmail.com).
-You can also check out my [CV here 📄](https://drive.google.com/file/d/1eRdYM8OSQdDivrsxibaa-aeC_EphcOlx/view?usp=sharing).
+You can also check out my [CV](https://drive.google.com/file/d/1eRdYM8OSQdDivrsxibaa-aeC_EphcOlx/view?usp=sharing) and my [Research Statement](https://drive.google.com/file/d/1Vp4gJEFMucCijIKNq8xABV98CSnDU6Jc/view?usp=sharing).
+
 
 <!-- # 🔥 News
 
