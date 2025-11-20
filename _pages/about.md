@@ -87,7 +87,8 @@ You can also check out my [CV](https://drive.google.com/file/d/1eRdYM8OSQdDivrsx
 [![](https://img.shields.io/github/stars/blacksnail789521/IMM-TSF?style=social&label=Dataset+Stars)](https://github.com/blacksnail789521/IMM-TSF)
 [![](https://img.shields.io/badge/Project-Website-blue?style=flat)](https://blacksnail789521.github.io/time-imm-project-page/)
 [![](https://img.shields.io/badge/SlidesLive-Talk-red?style=flat)](https://recorder-v3.slideslive.com/?share=103254&s=e5709e82-503d-4a79-88b1-271b89b1f69f)
-[![](https://img.shields.io/badge/Slides-Google%20Slides-blue?style=flat)](https://docs.google.com/presentation/d/199W1ktlDa3lwBfGAhLSSGoD7LDLzlgO5/edit?usp=sharing)
+[![](https://img.shields.io/badge/Slides-grey?style=flat)](https://docs.google.com/presentation/d/199W1ktlDa3lwBfGAhLSSGoD7LDLzlgO5/edit?usp=sharing)
+
 
 - Time-IMM is a comprehensive benchmark and open-source library designed for irregular, multimodal time series. It introduces nine real-world datasets across diverse domains and provides tools for fusing asynchronous text with numeric signals, showing that multimodal integration can significantly enhance forecasting in complex, real-world settings.
 
