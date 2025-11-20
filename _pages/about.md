@@ -85,8 +85,8 @@ You can also check out my [CV](https://drive.google.com/file/d/1eRdYM8OSQdDivrsx
 
 {% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="qxL8FJ1GzNcC" %} [![](https://img.shields.io/github/stars/blacksnail789521/Time-IMM?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Time-IMM)
 [![](https://img.shields.io/github/stars/blacksnail789521/IMM-TSF?style=social&label=Dataset+Stars)](https://github.com/blacksnail789521/IMM-TSF)
-[![](https://img.shields.io/badge/Project-Website-blue?style=flat)](https://blacksnail789521.github.io/time-imm-project-page/)
-[![](https://img.shields.io/badge/SlidesLive-Talk-red?style=flat)](https://recorder-v3.slideslive.com/?share=103254&s=e5709e82-503d-4a79-88b1-271b89b1f69f)
+[![](https://img.shields.io/badge/Project-Page-grey?style=flat)](https://blacksnail789521.github.io/time-imm-project-page/)
+[![](https://img.shields.io/badge/Video-grey?style=flat)](https://recorder-v3.slideslive.com/?share=103254&s=e5709e82-503d-4a79-88b1-271b89b1f69f)
 [![](https://img.shields.io/badge/Slides-grey?style=flat)](https://docs.google.com/presentation/d/199W1ktlDa3lwBfGAhLSSGoD7LDLzlgO5/edit?usp=sharing)
 
 
@@ -148,7 +148,9 @@ You can also check out my [CV](https://drive.google.com/file/d/1eRdYM8OSQdDivrsx
 
 **Ching Chang**, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen
 
-{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="aqlVkmm33-oC" %} [![](https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/PromptTSS) [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat)](https://docs.google.com/presentation/d/1V0LVSP-4VTjj-B81AIC64TM9LHXgisJo/edit?usp=sharing&ouid=102526612289511924674&rtpof=true&sd=true) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat)](https://youtu.be/u5teQmsHsHI)
+{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="aqlVkmm33-oC" %} [![](https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/PromptTSS)
+[![](https://img.shields.io/badge/Slides-grey?logo=google-drive&style=flat)](https://docs.google.com/presentation/d/1V0LVSP-4VTjj-B81AIC64TM9LHXgisJo/edit?usp=sharing&ouid=102526612289511924674&rtpof=true&sd=true)
+[![](https://img.shields.io/badge/Video-grey?logo=youtube&style=flat)](https://youtu.be/u5teQmsHsHI)
 
 - PromptTSS is a framework that unifies coarse- and fine-grained time series segmentation using prompts for dynamic adaptation. It achieves substantial accuracy gains in segmentation and transfer learning, showing strong effectiveness for hierarchical, evolving time series.
 
