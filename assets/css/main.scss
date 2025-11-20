@@ -117,7 +117,7 @@ h1:before, .anchor:before {
   
   /* Dark mode overrides */
   body.dark {
-    --bg-color: #474747;      // lighter gray-black (easier on the eyes than #121212)
+    --bg-color: #2b2b2b;      // deeper gray to make dark mode darker
     --text-color: #e0e0e0;    // slightly dimmed white
     --link-color: #8ab4f8;    // readable, Google-style light blue
   }
