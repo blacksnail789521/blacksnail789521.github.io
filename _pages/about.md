@@ -149,8 +149,8 @@ You can also check out my [CV](https://drive.google.com/file/d/1eRdYM8OSQdDivrsx
 **Ching Chang**, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen
 
 {% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="aqlVkmm33-oC" %} [![](https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/PromptTSS)
-[![](https://img.shields.io/badge/Slides-grey?logo=google-drive&style=flat)](https://docs.google.com/presentation/d/1V0LVSP-4VTjj-B81AIC64TM9LHXgisJo/edit?usp=sharing&ouid=102526612289511924674&rtpof=true&sd=true)
-[![](https://img.shields.io/badge/Video-grey?logo=youtube&style=flat)](https://youtu.be/u5teQmsHsHI)
+[![](https://img.shields.io/badge/Slides-grey?style=flat)](https://docs.google.com/presentation/d/1V0LVSP-4VTjj-B81AIC64TM9LHXgisJo/edit?usp=sharing&ouid=102526612289511924674&rtpof=true&sd=true)
+[![](https://img.shields.io/badge/Video-grey?style=flat)](https://youtu.be/u5teQmsHsHI)
 
 - PromptTSS is a framework that unifies coarse- and fine-grained time series segmentation using prompts for dynamic adaptation. It achieves substantial accuracy gains in segmentation and transfer learning, showing strong effectiveness for hierarchical, evolving time series.
 
@@ -170,7 +170,8 @@ You can also check out my [CV](https://drive.google.com/file/d/1eRdYM8OSQdDivrsx
 
 **Ching Chang**, Chiao-Tung Chan, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen
 
-{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="WF5omc3nYNoC" %} [![](https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&label=Code+Stars)](https://github.com/blacksnail789521/TimeDRL) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat)](https://youtu.be/LyDl77cS7Ko)
+{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="WF5omc3nYNoC" %} [![](https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&label=Code+Stars)](https://github.com/blacksnail789521/TimeDRL)
+[![](https://img.shields.io/badge/Video-grey?style=flat)](https://youtu.be/LyDl77cS7Ko)
 
 - TimeDRL is a self-supervised learning framework for multivariate time series data that learns disentangled timestamp- and instance-level embeddings without relying on augmentations. It introduces dual-level objectives for predictive and contrastive learning, and achieves strong performance across forecasting and classification tasks, even in low-label scenarios.
 
@@ -210,17 +211,17 @@ You can also check out my [CV](https://drive.google.com/file/d/1eRdYM8OSQdDivrsx
 - *2025.09*, **Time Series AI for Strategic Business Intelligence and Manufacturing Optimization**, *TSMC AI4BI Innovation Center*
   
   Delivered a talk on leveraging AI-driven time series analysis to generate actionable business intelligence.
-  [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat)](https://drive.google.com/file/d/1oSLXOhx9DsBxLB8m9pm_-qHbnNIGPHxf/view?usp=sharing)
+  [![](https://img.shields.io/badge/Slides-grey?style=flat)](https://drive.google.com/file/d/1oSLXOhx9DsBxLB8m9pm_-qHbnNIGPHxf/view?usp=sharing)
 
 - *2025.06*, **Advanced Time Series Analysis Techniques for Industrial and Manufacturing Applications**, *University of Southern California (USC)*
   
   Delivered a talk on cutting-edge time series analysis methods tailored for deployment in industrial and manufacturing settings.
-  [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat)](https://drive.google.com/file/d/1eD-53hLCqnPFsS0EYF8BpSBT8IRjnZSv/view?usp=sharing)
+  [![](https://img.shields.io/badge/Slides-grey?style=flat)](https://drive.google.com/file/d/1eD-53hLCqnPFsS0EYF8BpSBT8IRjnZSv/view?usp=sharing)
 
 - *2023.08*, **Time Series Analysis with LLMs**, *LLM Industry-Academia Technical Exchange Conference, National Center for High-Performance Computing*
   
   Discussed the use of large language models for analyzing time series data and their potential applications in industry.  
-  Shared the stage with **Hung-Yi Lee** and **Hsiang-Tsung Kung**. [![Website](https://img.shields.io/badge/Website-Link-blue?logo=google-chrome&style=flat)](https://nycuaib.web.nycu.edu.tw/) [![Slides](https://img.shields.io/badge/Slides-PDF-green?logo=google-drive&style=flat)](https://drive.google.com/file/d/1eRCoS0OoDHh_-kxDZ4pckEiLAWY6jB9q/view?usp=sharing) [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&style=flat)](https://youtu.be/QJOEW8PUidY)
+  Shared the stage with **Hung-Yi Lee** and **Hsiang-Tsung Kung**. [![](https://img.shields.io/badge/Website-grey?style=flat)](https://nycuaib.web.nycu.edu.tw/) [![](https://img.shields.io/badge/Slides-grey?style=flat)](https://drive.google.com/file/d/1eRCoS0OoDHh_-kxDZ4pckEiLAWY6jB9q/view?usp=sharing) [![](https://img.shields.io/badge/Video-grey?style=flat)](https://youtu.be/QJOEW8PUidY)
 
 # 🎓 Academic Services  
 
