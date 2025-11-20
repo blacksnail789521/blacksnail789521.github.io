@@ -132,6 +132,11 @@ font-weight: var(--body-font-weight, 100);
 transition: background-color 0.3s, color 0.3s;
 }
 
+b,
+strong {
+  font-weight: 600;              // enforce visible emphasis even with light base weight
+}
+
 a {
 color: var(--link-color);
 }
