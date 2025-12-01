@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ching (Jason) Chang | AI Researcher | UCLA & NYCU"
-excerpt: "Personal website of Ching (Jason) Chang, PhD candidate at NYCU and Visiting Researcher at UCLA. Research in AI, Time Series Analysis, Causal Discovery."
+excerpt: "Personal website of Ching (Jason) Chang, PhD candidate at NYCU and Visiting Researcher at UCLA. AI Research Scientist – Foundation Models • Multimodal • Agentic RL • Reasoning • Time Series"
 author_profile: true
 redirect_from: 
   - /about/
