@@ -31,6 +31,12 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
+      {% if author.resume %}
+        <li><a href="{{ author.resume }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i> Resume</a></li>
+      {% endif %}
+      {% if author.research_statement %}
+        <li><a href="{{ author.research_statement }}"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i> Research Statement</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -125,6 +131,12 @@
       {% endif %}
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.resume %}
+        <a href="{{ author.resume }}"><i class="fas fa-fw fa-file-alt" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.research_statement %}
+        <a href="{{ author.research_statement }}"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
