@@ -21,11 +21,6 @@ Hello 👋, My name is Ching Chang, also known as Jason Chang, and I am a PhD ca
 
 My research focuses on Time Series Analysis, Large Foundation Models, Causal Discovery, and Multimodal Reasoning. I have published multiple papers in top AI and data science conferences and journals, including NeurIPS, AAAI, ICDE, CIKM, and ACM TIST, with total
 <a href='https://scholar.google.com/citations?user=OXCVj48AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
-I have also served as a reviewer for 67 papers across top-tier conferences and journals, including ICML, NeurIPS, ICLR, AAAI, KDD, WWW, TNNLS, and ACM TIST.
-
-<!-- If you're interested in collaboration, feel free to contact me at blacksnail789521@gmail.com.  -->
-If you're interested in collaboration, feel free to contact me at [blacksnail789521@gmail.com](mailto:blacksnail789521@gmail.com).
-You can also check out my [CV](https://drive.google.com/file/d/1eRdYM8OSQdDivrsxibaa-aeC_EphcOlx/view?usp=sharing) and my [Research Statement](https://drive.google.com/file/d/1Vp4gJEFMucCijIKNq8xABV98CSnDU6Jc/view?usp=sharing).
 
 
 <!-- # 🔥 News
@@ -42,13 +37,10 @@ You can also check out my [CV](https://drive.google.com/file/d/1eRdYM8OSQdDivrsx
 # 💻 Work Experience
 
 - *2025.09 – Now*, **Research Consultant**, TSMC, Hsinchu, Taiwan  
-  - Improved prediction accuracy by 5.52% through model calibration and data-driven diagnostic analysis.
 
 - *2022.09 – 2025.02*, **Research Scientist (Intern)**, TSMC, Hsinchu, Taiwan  
-  - Improved root-cause localization accuracy by up to 71.5% and causal graph accuracy by 62.6% on manufacturing data through neural and graph-attention causal models.
 
 - *2021.01 – 2025.01*, **Research Scientist (Intern)**, GoEdge.ai, Hsinchu, Taiwan  
-  - Reduced forecasting MSE by 4.3% and improved segmentation accuracy by 10.86% on production-scale datasets using large-language-model-based time-series systems.
 
 - *2019.07 – 2020.12*, **Machine Learning Engineer**, TSMC, Hsinchu, Taiwan  
 
