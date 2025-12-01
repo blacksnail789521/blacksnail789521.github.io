@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OXCVj48AAAAJ"
   email            : "blacksnail789521@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Ching-Chang-35"
+  researchgate     : # "https://www.researchgate.net/profile/Ching-Chang-35"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "ching-chang"
-  dblp             : "https://dblp.org/pid/68/1344-1.html"
-  orcid            : "https://orcid.org/0000-0002-5031-5487"
+  dblp             : # "https://dblp.org/pid/68/1344-1.html"
+  orcid            : # "https://orcid.org/0000-0002-5031-5487"
   pinterest        :
   soundcloud       :
   stackoverflow    : "3853182/blacksnail789521"
