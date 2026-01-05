@@ -1,9 +1,9 @@
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ include.user }}&citation_for_view={{ include.user }}:{{ include.paper }}"
+<a class="citation-link"
+   href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ include.user }}&citation_for_view={{ include.user }}:{{ include.paper }}"
    target="_blank"
-   style="text-decoration:none; display:inline-block; vertical-align:middle; margin-right:8px;">
-  <span class="external-link button is-rounded"
-        style="background-color:#9cf; color:#000; border:none; font-size:0.75rem; padding:0.25em 0.6em; line-height:1; vertical-align:middle;">
-    <i class="fab fa-google-scholar" style="margin-right:4px; font-size:0.8rem; vertical-align:middle;"></i>
+   rel="noopener">
+  <span class="citation-button">
+    <i class="fab fa-google-scholar citation-icon" aria-hidden="true"></i>
     <strong><span class="show_paper_citations" data="{{ include.user }}:{{ include.paper }}"></span></strong>
   </span>
 </a>
