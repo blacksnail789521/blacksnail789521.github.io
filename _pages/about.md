@@ -90,8 +90,29 @@ My research focuses on Foundation Models, Multimodal Learning, Agentic Reinforce
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">TechRxiv 2025</div>
+      <img src='images/papers/agentic_rl_survey.png' alt="Agentic RL Survey" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Training Recipes for Agentic Reinforcement Learning in LLMs: A Survey](https://www.techrxiv.org/users/1020340/articles/1380448-training-recipes-for-agentic-reinforcement-learning-in-llms-a-survey)
+
+**Ching Chang**, Yijia Xiao,Jade Xu,Fred Xu,Chenchen Ye,Ruoyan Li,Junkai Zhang,Yihe Deng,Kyle Zheng,Ethan Ji,Alexander K Taylor,Weikai Li,Maryam Haghifam,Anthony Cuturrufo,Renliang Sun,Jiahang Sha,Yidan Shi,Wen-Chih Peng,Yizhou Sun,Wei Wang
+
+<!-- {% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Wp0gIr-vW9MC" %}  -->
+[![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Agentic-RL-Training-Recipes)
+
+- This survey systematizes the training recipes, infrastructure, and environments of Agentic Reinforcement Learning to provide a unified framework for building robust, generalist autonomous agents from scratch, addressing the shortcomings of standard alignment methods like RLHF.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">arXiv 2025</div>
-      <img src='images/papers/tsreasoningsurvey.png' alt="Time-Series-Reasoning-Survey" width="100%">
+      <img src='images/papers/ts_reasoning_survey.png' alt="Time-Series-Reasoning-Survey" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
