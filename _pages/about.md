@@ -101,7 +101,7 @@ My research focuses on Foundation Models, Multimodal Learning, Agentic Reinforce
 **Ching Chang**, Yijia Xiao,Jade Xu,Fred Xu,Chenchen Ye,Ruoyan Li,Junkai Zhang,Yihe Deng,Kyle Zheng,Ethan Ji,Alexander K Taylor,Weikai Li,Maryam Haghifam,Anthony Cuturrufo,Renliang Sun,Jiahang Sha,Yidan Shi,Wen-Chih Peng,Yizhou Sun,Wei Wang
 
 <!-- {% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Wp0gIr-vW9MC" %}  -->
-[![](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Agentic-RL-Training-Recipes)
+[![](https://img.shields.io/github/stars/blacksnail789521/Agentic-RL-Training-Recipes?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Agentic-RL-Training-Recipes)
 
 - This survey systematizes the training recipes, infrastructure, and environments of Agentic Reinforcement Learning to provide a unified framework for building robust, generalist autonomous agents from scratch, addressing the shortcomings of standard alignment methods like RLHF.
 
