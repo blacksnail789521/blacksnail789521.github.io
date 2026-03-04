@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ching (Jason) Chang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Visiting Graduate Researcher at UCLA | Ph.D. Candidate (ABD) at NYCU"
-  location         : "Los Angeles, CA"
+  bio              : "Staff ML Research Scientist at Pravah | Ph.D. Candidate (ABD) at NYCU"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OXCVj48AAAAJ"
