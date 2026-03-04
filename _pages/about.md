@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ching (Jason) Chang | Staff ML Research Scientist @ Pravah"
-excerpt: "Personal website of Ching (Jason) Chang, Staff ML Research Scientist at Pravah and PhD candidate at NYCU. AI Research Scientist – Foundation Models • Multimodal • Agentic RL • Reasoning • Time Series"
+title: "Ching (Jason) Chang | Staff ML Research Scientist @ Pravāh"
+excerpt: "Personal website of Ching (Jason) Chang, Staff ML Research Scientist at Pravāh and PhD candidate at NYCU. AI Research Scientist – Foundation Models • Multimodal • Agentic RL • Reasoning • Time Series"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello 👋, My name is Ching Chang, also known as Jason Chang. I am currently a Staff ML Research Scientist at Pravah. I am also a PhD candidate (ABD) in Computer Science at National Yang Ming Chiao Tung University (NYCU), Taiwan, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/). Previously, I was a Visiting Graduate Researcher in Computer Science at UCLA, working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).  
+Hello 👋, My name is Ching Chang, also known as Jason Chang. I am currently a Staff ML Research Scientist at [Pravāh](https://pravah.com/). I am also a PhD candidate (ABD) in Computer Science at National Yang Ming Chiao Tung University (NYCU), Taiwan, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/). Previously, I was a Visiting Graduate Researcher in Computer Science at UCLA, working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).  
 
 My research focuses on Foundation Models, Multimodal Learning, Agentic Reinforcement Learning, Reasoning, and Time Series Analysis. I have published multiple papers in top AI and data science conferences and journals, including NeurIPS, AAAI, ICDE, CIKM, and ACM TIST, with total
 <a href='https://scholar.google.com/citations?user=OXCVj48AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
