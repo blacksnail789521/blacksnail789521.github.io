@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ching (Jason) Chang | AI Researcher | UCLA & NYCU"
-excerpt: "Personal website of Ching (Jason) Chang, PhD candidate at NYCU and Visiting Researcher at UCLA. AI Research Scientist – Foundation Models • Multimodal • Agentic RL • Reasoning • Time Series"
+title: "Ching (Jason) Chang | Staff ML Research Scientist @ Pravah"
+excerpt: "Personal website of Ching (Jason) Chang, Staff ML Research Scientist at Pravah and PhD candidate at NYCU. AI Research Scientist – Foundation Models • Multimodal • Agentic RL • Reasoning • Time Series"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,24 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello 👋, My name is Ching Chang, also known as Jason Chang, and I am a PhD candidate (ABD) in Computer Science at National Yang Ming Chiao Tung University (NYCU), Taiwan, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/). Currently, I am a Visiting Graduate Researcher in Computer Science at UCLA, working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).  
+Hello 👋, My name is Ching Chang, also known as Jason Chang. I am currently a Staff ML Research Scientist at Pravah. I am also a PhD candidate (ABD) in Computer Science at National Yang Ming Chiao Tung University (NYCU), Taiwan, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/). Previously, I was a Visiting Graduate Researcher in Computer Science at UCLA, working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).  
 
 My research focuses on Foundation Models, Multimodal Learning, Agentic Reinforcement Learning, Reasoning, and Time Series Analysis. I have published multiple papers in top AI and data science conferences and journals, including NeurIPS, AAAI, ICDE, CIKM, and ACM TIST, with total
 <a href='https://scholar.google.com/citations?user=OXCVj48AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
 
 
-<!-- # 🔥 News
-
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
 # 📖 Education
 
 - *2021.09 – 2026.03 (Expected)*, **National Yang Ming Chiao Tung University (NYCU), Taiwan**, PhD in Computer Science (ABD)  
-- *2025.02 – 2026.02 (Expected)*, **University of California, Los Angeles (UCLA), USA**, Visiting Graduate Researcher in Computer Science  
+- *2025.02 – 2026.02*, **University of California, Los Angeles (UCLA), USA**, Visiting Graduate Researcher in Computer Science  
 - *2016.09 – 2018.09*, **National Chiao Tung University (NCTU), Taiwan**, MSc in Computer Science and Engineering  
 - *2012.09 – 2016.06*, **National Chiao Tung University (NCTU), Taiwan**, BSc in Electrical and Computer Engineering
 
 # 💻 Work Experience
+
+- *2026.03 – Now*, **Staff ML Research Scientist**, Pravah  
 
 - *2025.09 – Now*, **Research Consultant**, TSMC, Hsinchu, Taiwan  
 
@@ -46,7 +44,7 @@ My research focuses on Foundation Models, Multimodal Learning, Agentic Reinforce
 
 - *2018.04 – 2018.09*, **Machine Learning Engineer (Intern)**, EPISTAR, Hsinchu, Taiwan  
 
-- *2016.07 – 2016.08*, **Software Engineer (Intern)**, MediaTek, Hsinchu, Taiwan  
+- *2016.07 – 2016.08*, **Software Engineer (Intern)**, MediaTek, Hsinchu, Taiwan
 
 # 📝 Publications
 
