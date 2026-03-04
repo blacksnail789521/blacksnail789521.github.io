@@ -34,7 +34,7 @@ My research focuses on Foundation Models, Multimodal Learning, Agentic Reinforce
 
 - *2026.03 – Now*, **Staff ML Research Scientist**, Pravah  
 
-- *2025.09 – Now*, **Research Consultant**, TSMC, Hsinchu, Taiwan  
+- *2025.09 – 2026.02*, **Research Consultant**, TSMC, Hsinchu, Taiwan  
 
 - *2022.09 – 2025.02*, **Research Scientist (Intern)**, TSMC, Hsinchu, Taiwan  
 
