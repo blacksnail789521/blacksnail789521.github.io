@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello 👋, My name is Ching Chang, also known as Jason Chang. I am currently a Staff ML Research Scientist at [Pravāh](https://pravah.com/). I am also a PhD candidate (ABD) in Computer Science at National Yang Ming Chiao Tung University (NYCU), Taiwan, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/). Previously, I was a Visiting Graduate Researcher in Computer Science at UCLA, working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).  
+Hello 👋, My name is Ching Chang, also known as Jason Chang. I am currently a Staff ML Research Scientist at [Pravāh](https://pravah.com/). I received my PhD in Computer Science from National Yang Ming Chiao Tung University (NYCU), Taiwan, advised by [Prof. Wen-Chih Peng](https://sites.google.com/site/wcpeng/). Previously, I was a Visiting Graduate Researcher in Computer Science at UCLA, working with [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).  
 
 My research focuses on Time Series Analysis, Foundation Models, Multimodal Learning, Agentic Reinforcement Learning, and Reasoning. I have published multiple papers in top AI and data science conferences and journals, including NeurIPS, AAAI, ICDE, CIKM, and ACM TIST, with total
 <a href='https://scholar.google.com/citations?user=OXCVj48AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
@@ -25,7 +25,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 # 📖 Education
 
-- *2021.09 – 2026.03 (Expected)*, **National Yang Ming Chiao Tung University (NYCU), Taiwan**, PhD in Computer Science (ABD)  
+- *2021.09 – 2026.03*, **National Yang Ming Chiao Tung University (NYCU), Taiwan**, PhD in Computer Science  
 - *2025.02 – 2026.02*, **University of California, Los Angeles (UCLA), USA**, Visiting Graduate Researcher in Computer Science  
 - *2016.09 – 2018.09*, **National Chiao Tung University (NCTU), Taiwan**, MSc in Computer Science and Engineering  
 - *2012.09 – 2016.06*, **National Chiao Tung University (NCTU), Taiwan**, BSc in Electrical and Computer Engineering
