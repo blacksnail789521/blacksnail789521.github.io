@@ -32,7 +32,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 # 💻 Work Experience
 
-- *2026.03 – Now*, **Staff ML Research Scientist**, Pravah  
+- *2026.03 – Now*, **Staff ML Research Scientist**, Pravah, San Francisco, CA, USA (Remote)  
 
 - *2025.09 – 2026.02*, **Research Consultant**, TSMC, Hsinchu, Taiwan  
 
@@ -237,8 +237,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 # 🎓 Academic Services  
 
-- **Reviewer for Conferences**: ICDE'24, KDD'24, NeurIPS'24, ICLR'25, AAAI'25, KDD'25, ICML'25, NeurIPS'25, KDD'26, AAAI'26, WWW'26, ICLR'26
+- **Reviewer for Conferences**: NeurIPS'24, '25; ICLR'25, '26; ICML'25; KDD'24, '25, '26; AAAI'25, '26; WWW'26; ICDE'24
 - **Reviewer for Journals**: TNNLS'25, TIST'25, TMLR'25, TSC'25, ESWA'25
-- **Student Volunteer**: AAAI'24
 
 # 👤 Visitors
