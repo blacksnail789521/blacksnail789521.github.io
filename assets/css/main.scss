@@ -242,8 +242,7 @@ code {
 }
 
 /* Kill any auto-centering the widget injects */
-.page__content #map-container *,
-.page__content #map-container [id^="clustrmaps"] {
+.page__content #map-container * {
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
