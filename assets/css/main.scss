@@ -116,8 +116,8 @@ h1:before, .anchor:before {
     --body-font-weight: 100;  // ultra-thin base weight
   }
   
-  /* Dark mode overrides */
-  body.dark {
+  /* Dark mode overrides — class lives on <html> so it applies before paint */
+  :root.dark {
     --bg-color: #2b2b2b;      // deeper gray to make dark mode darker
     --text-color: #e0e0e0;    // slightly dimmed white
     --link-color: #8ab4f8;    // readable, Google-style light blue
@@ -161,10 +161,63 @@ code {
     border-radius: 4px;
 }
 
-body.dark code {
+:root.dark code {
     background-color: rgba(255, 255, 255, 0.1);
     color: var(--text-color);
 }
+
+/* Masthead layout (was inline styles in masthead.html) */
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.masthead__menu .greedy-nav {
+  flex-grow: 1;
+}
+
+/* Theme toggle button — minimal, clean sun/moon icons */
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  margin-left: 0.75rem;
+  padding: 0;
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  color: var(--text-color);
+  cursor: pointer;
+  transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.theme-toggle:hover {
+  background-color: rgba(127, 127, 127, 0.12);
+  border-color: rgba(127, 127, 127, 0.25);
+}
+
+.theme-toggle:focus-visible {
+  outline: 2px solid var(--link-color);
+  outline-offset: 2px;
+}
+
+.theme-toggle svg {
+  width: 20px;
+  height: 20px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
+
+/* Show moon by default (light mode), sun in dark mode */
+.theme-toggle .icon-sun { display: none; }
+:root.dark .theme-toggle .icon-moon { display: none; }
+:root.dark .theme-toggle .icon-sun { display: block; }
 
 
 /* Make sidebar items follow light/dark theme */

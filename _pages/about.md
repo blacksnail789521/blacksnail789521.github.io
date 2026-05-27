@@ -64,7 +64,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
   <div class='paper-box-image'>
     <div>
       <div class="badge">NeurIPS 2025</div>
-      <img src='images/papers/timeimm.png' alt="Time-IMM" width="100%">
+      <img src='images/papers/timeimm.png' alt="Time-IMM" width="1593" height="794" loading="lazy" style="width:100%;height:auto">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -89,7 +89,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
   <div class='paper-box-image'>
     <div>
       <div class="badge">TechRxiv 2025</div>
-      <img src='images/papers/agentic_rl_survey.png' alt="Agentic RL Survey" width="100%">
+      <img src='images/papers/agentic_rl_survey.png' alt="Agentic RL Survey" width="1589" height="703" loading="lazy" style="width:100%;height:auto">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -110,7 +110,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv 2025</div>
-      <img src='images/papers/ts_reasoning_survey.png' alt="Time-Series-Reasoning-Survey" width="100%">
+      <img src='images/papers/ts_reasoning_survey.png' alt="Time-Series-Reasoning-Survey" width="2153" height="956" loading="lazy" style="width:100%;height:auto">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -130,7 +130,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACM TIST 2025</div>
-      <img src='images/papers/llm4ts.png' alt="LLM4TS" width="100%">
+      <img src='images/papers/llm4ts.png' alt="LLM4TS" width="1952" height="900" loading="lazy" style="width:100%;height:auto">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -150,7 +150,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
   <div class='paper-box-image'>
     <div>
       <div class="badge">CIKM 2025</div>
-      <img src='images/papers/prompttss.png' alt="PromptTSS" width="100%">
+      <img src='images/papers/prompttss.png' alt="PromptTSS" width="3491" height="1369" loading="lazy" style="width:100%;height:auto">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -172,7 +172,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICDE 2024</div>
-      <img src='images/papers/timedrl.png' alt="TimeDRL" width="100%">
+      <img src='images/papers/timedrl.png' alt="TimeDRL" width="2048" height="894" loading="lazy" style="width:100%;height:auto">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">

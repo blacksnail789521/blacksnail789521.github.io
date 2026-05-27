@@ -9,6 +9,7 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 
+{% if page.has_math %}
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -19,6 +20,7 @@
   });
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+{% endif %}
 
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="wFFFrGDstemX71VxcURHRp5GAa4chJiuWa0jru6wGxc" />
@@ -26,7 +28,6 @@
 <!-- Font Awesome 6 (brands + solid) -->
 <link rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
-      integrity="sha512-..."
-      crossorigin="anonymous" referrerpolicy="no-referrer">
+      referrerpolicy="no-referrer">
 
 <!-- end custom head snippets -->

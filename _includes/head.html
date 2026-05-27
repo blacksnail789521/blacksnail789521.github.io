@@ -8,12 +8,19 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  // Apply theme before paint to avoid FOUC. Default to dark if unset.
+  (function () {
+    try {
+      var t = localStorage.getItem('theme');
+      if (!t) { t = 'dark'; localStorage.setItem('theme', 'dark'); }
+      if (t === 'dark') document.documentElement.classList.add('dark');
+    } catch (e) {
+      document.documentElement.classList.add('dark');
+    }
+  })();
 </script>
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
-<!-- <head>
-  <base target="_blank">
-</head> -->
