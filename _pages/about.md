@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ching (Jason) Chang | Staff ML Research Scientist @ Pravāh"
-excerpt: "Personal website of Ching (Jason) Chang, Staff ML Research Scientist at Pravāh and PhD candidate at NYCU. AI Research Scientist – Time Series • Foundation Models • Multimodal • Agentic RL • Reasoning"
+excerpt: "Personal website of Ching (Jason) Chang, Staff ML Research Scientist at Pravāh and PhD from NYCU. AI Research Scientist – Time Series • Foundation Models • Multimodal • Agentic RL • Reasoning"
 author_profile: true
 redirect_from: 
   - /about/
@@ -44,9 +44,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 - *2019.07 – 2020.12*, **Machine Learning Engineer**, TSMC, Hsinchu, Taiwan  
 
-- *2018.04 – 2018.09*, **Machine Learning Engineer (Intern)**, EPISTAR, Hsinchu, Taiwan  
-
-- *2016.07 – 2016.08*, **Software Engineer (Intern)**, MediaTek, Hsinchu, Taiwan
+- *2018.04 – 2018.09*, **Machine Learning Engineer (Intern)**, EPISTAR, Hsinchu, Taiwan
 
 # 📝 Publications
 
@@ -194,6 +192,10 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 <!-- - ``ACM TIST 2025`` [LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters](https://dl.acm.org/doi/10.1145/3719207), **Ching Chang**, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen. [![](https://img.shields.io/github/stars/blacksnail789521/LLM4TS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/LLM4TS)   -->
 
+- ``Under Review (ICDM 2026)`` Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory, **Ching Chang**, Ming-Chih Lo, Chiao-Tung Chan, Wen-Chih Peng, Tien-Fu Chen.
+
+- ``Under Review (NeurIPS 2026)`` FraMe: Fractal Generative Framework for Molecular Dynamics, Yidan Shi, Fang Sun, Yuanzhou Chen, Yanqiao Zhu, Jeehyun Hwang, **Ching Chang**, Yizhou Sun, Wei Wang.
+
 - ``KDD 2026`` [FD-Bench: A Modular and Fair Benchmark for Data-driven Fluid Simulation](https://arxiv.org/abs/2505.20349), Haixin Wang, Ruoyan Li, Fred Xu, Fang Sun, Kaiqiao Han, Zijie Huang, **Ching Chang**, Xiao Luo, Wei Wang, Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/FD-Bench?style=social&label=Code+Stars)](https://github.com/WillDreamer/FD-Bench)
 
 - ``AAAI 2025 (Workshop: AI4TS)`` [PromptTSS: A Unified Model for Time Series Segmentation with Multi-Granularity States](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_Ready_AAAI2025/23%5CCameraReady%5CPromptTSS__AAAI_2025_workshop_.pdf), **Ching Chang**, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen.
@@ -209,8 +211,6 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 - ``CIKM 2024`` [COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data](https://arxiv.org/abs/2407.12254), Ting-Yun Ou, **Ching Chang**, Wen-Chih Peng. [![](https://img.shields.io/github/stars/outingyun/coke?style=social&label=Code+Stars)](https://github.com/outingyun/coke)  
 
 - ``AAAI 2024`` [Root Cause Analysis in Microservice Using Neural Granger Causal Discovery](https://arxiv.org/abs/2402.01140), Zheng-Ming Lin, **Ching Chang**, Wei-Yao Wang, Kuang-Da Wang, Wen-Chih Peng. [![](https://img.shields.io/github/stars/zmlin1998/RUN?style=social&label=Code+Stars)](https://github.com/zmlin1998/RUN)
-
-- ``Preprint`` [Detecting and Ranking Causal Anomalies in End-to-End Complex System](https://arxiv.org/abs/2301.07281), **Ching Chang**, Wen-Chih Peng.
 
 # 🎖 Honors and Awards
 
@@ -229,7 +229,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
   Delivered a talk on leveraging AI-driven time series analysis to generate actionable business intelligence.
   [![](https://img.shields.io/badge/Slides-grey?style=flat)](https://drive.google.com/file/d/1oSLXOhx9DsBxLB8m9pm_-qHbnNIGPHxf/view?usp=sharing)
 
-- *2025.06*, **Advanced Time Series Analysis Techniques for Industrial and Manufacturing Applications**, *University of Southern California (USC)*
+- *2025.06*, **Advanced Time Series Analysis Techniques for Industrial Applications**, *University of Southern California (USC)*
   
   Delivered a talk on cutting-edge time series analysis methods tailored for deployment in industrial and manufacturing settings.
   [![](https://img.shields.io/badge/Slides-grey?style=flat)](https://drive.google.com/file/d/1eD-53hLCqnPFsS0EYF8BpSBT8IRjnZSv/view?usp=sharing)
