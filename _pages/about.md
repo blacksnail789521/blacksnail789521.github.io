@@ -237,7 +237,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 # 🎓 Academic Services  
 
-- **Reviewer for Conferences**: NeurIPS'24, '25; ICLR'25, '26; ICML'25; KDD'24, '25, '26; AAAI'25, '26; WWW'26; ICDE'24
-- **Reviewer for Journals**: TNNLS'25, TIST'25, TMLR'25, TSC'25, ESWA'25
+- **Reviewer for Conferences**: NeurIPS, ICLR, ICML, KDD, AAAI, WWW, ICDE
+- **Reviewer for Journals**: TNNLS, TIST, TMLR, TSC, ESWA
 
 # 👤 Visitors
