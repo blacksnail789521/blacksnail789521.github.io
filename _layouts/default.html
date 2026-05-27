@@ -27,7 +27,11 @@ layout: compress
           {{ content }}
 
           <div id="map-container" class="map-embed">
-            <img src="https://cdn.clustrmaps.com/map_v2.png?cl=ffffff&w=450&t=tt&d=H2xuQAzzC5LAB1X9-QLoADwrxOX4JKEOoErGToH1wb4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff" alt="ClustrMaps visitor map" loading="lazy">
+            <!-- ClustrMaps is currently in a global DNS outage (their domain refuses all queries).
+                 Restore this image when their service is back, or replace with an alternative. -->
+            <img src="https://cdn.clustrmaps.com/map_v2.png?cl=ffffff&w=450&t=tt&d=H2xuQAzzC5LAB1X9-QLoADwrxOX4JKEOoErGToH1wb4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"
+                 alt="" loading="lazy"
+                 onerror="this.style.display='none'">
           </div>
         </section>
       </div>
