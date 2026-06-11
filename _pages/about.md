@@ -109,13 +109,13 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv 2025</div>
+      <div class="badge">TMLR 2026</div>
       <img src='images/papers/ts_reasoning_survey.png' alt="Time-Series-Reasoning-Survey" width="2153" height="956" loading="lazy" style="width:100%;height:auto">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://arxiv.org/abs/2509.11575)
+[A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://openreview.net/forum?id=l3QW42g6u3)
 
 **Ching Chang**, Yidan Shi, Defu Cao, Wei Yang, Jeehyun Hwang, Haixin Wang, Jiacheng Pang, Wei Wang, Yan Liu, Wen-Chih Peng, Tien-Fu Chen
 
