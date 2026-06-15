@@ -196,6 +196,8 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 - ``Under Review (NeurIPS 2026)`` FraMe: Fractal Generative Framework for Molecular Dynamics, Yidan Shi, Fang Sun, Yuanzhou Chen, Yanqiao Zhu, Jeehyun Hwang, **Ching Chang**, Yizhou Sun, Wei Wang.
 
+- ``ICML 2026`` [Position: Beyond Prediction: Toward Verifiable Physiological Waveform Reasoning with Foundation Models and Agentic LLMs](https://doi.org/10.36227/techrxiv.177092226.67693184/v1), Xiaoda Wang, **Ching Chang**, Defu Cao, Kaiqiao Han, Fang Sun, Yue Huang, Minxiao Wang, Chang Xu, Xiao Luo, Runze Yan, Xiangliang Zhang, Xiao Hu, Yan Liu, Yizhou Sun, Wei Wang, Carl Yang.
+
 - ``KDD 2026`` [FD-Bench: A Modular and Fair Benchmark for Data-driven Fluid Simulation](https://arxiv.org/abs/2505.20349), Haixin Wang, Ruoyan Li, Fred Xu, Fang Sun, Kaiqiao Han, Zijie Huang, **Ching Chang**, Xiao Luo, Wei Wang, Yizhou Sun. [![](https://img.shields.io/github/stars/WillDreamer/FD-Bench?style=social&label=Code+Stars)](https://github.com/WillDreamer/FD-Bench)
 
 - ``AAAI 2025 (Workshop: AI4TS)`` [PromptTSS: A Unified Model for Time Series Segmentation with Multi-Granularity States](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_Ready_AAAI2025/23%5CCameraReady%5CPromptTSS__AAAI_2025_workshop_.pdf), **Ching Chang**, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen.
