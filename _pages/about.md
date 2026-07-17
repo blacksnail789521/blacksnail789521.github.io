@@ -34,7 +34,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 # 💻 Work Experience
 
-- *2026.03 – Now*, **Staff ML Research Scientist**, Pravah, San Francisco, CA, USA (Remote)  
+- *2026.03 – Now*, **Staff ML Research Scientist**, Pravah, San Francisco, CA, USA  
 
 - *2025.09 – 2026.02*, **Research Consultant**, TSMC, Hsinchu, Taiwan  
 
