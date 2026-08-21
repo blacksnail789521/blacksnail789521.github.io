@@ -49,18 +49,30 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 # 📝 Publications
 
 <style>
-details.pub {
+.pub {
   border: 1px solid rgba(128, 128, 128, 0.35);
   border-radius: 8px;
   padding: 0.55em 0.9em;
   margin: 0.6em 0;
+  line-height: 1.5;
 }
 details.pub summary {
   cursor: pointer;
-  line-height: 1.5;
 }
-details.pub summary:hover {
+details.pub summary:hover > a {
   color: #337ab7;
+}
+.pub-authors {
+  display: block;
+  margin-top: 0.25em;
+  font-size: 0.95em;
+}
+.pub-links {
+  display: block;
+  margin-top: 0.35em;
+}
+.pub-links img {
+  vertical-align: middle;
 }
 .pub-badge {
   display: inline-block;
@@ -78,7 +90,10 @@ details.pub summary:hover {
   margin-top: 0.7em;
 }
 .pub-body p {
-  margin: 0 0 0.5em;
+  margin: 0 0 0.3em;
+}
+.pub-desc {
+  font-size: 0.95em;
 }
 .pub-fig {
   background-color: white; /* force white behind image (figures are drawn for white) */
@@ -95,145 +110,166 @@ details.pub summary:hover {
 }
 </style>
 
-<p><i>Click a paper to expand its details.</i></p>
+<p><i>Click a paper to expand its figure and abstract.</i></p>
 
 <details class="pub">
-  <summary><span class="pub-badge">NeurIPS 2025</span> <a href="https://arxiv.org/abs/2506.10412">Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series</a></summary>
+  <summary><span class="pub-badge">NeurIPS 2025</span> <a href="https://arxiv.org/abs/2506.10412">Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Jeehyun Hwang, Yidan Shi, Haixin Wang, Wen-Chih Peng, Tien-Fu Chen, Wei Wang</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="qxL8FJ1GzNcC" %} <a href="https://github.com/blacksnail789521/Time-IMM"><img src="https://img.shields.io/github/stars/blacksnail789521/Time-IMM?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://github.com/blacksnail789521/IMM-TSF"><img src="https://img.shields.io/github/stars/blacksnail789521/IMM-TSF?style=social&amp;label=Dataset+Stars" alt="Dataset Stars"></a> <a href="https://blacksnail789521.github.io/time-imm-project-page/"><img src="https://img.shields.io/badge/Project-Page-grey?style=flat" alt="Project Page"></a> <a href="https://recorder-v3.slideslive.com/?share=103254&amp;s=e5709e82-503d-4a79-88b1-271b89b1f69f"><img src="https://img.shields.io/badge/Video-grey?style=flat" alt="Video"></a> <a href="https://docs.google.com/presentation/d/199W1ktlDa3lwBfGAhLSSGoD7LDLzlgO5/edit?usp=sharing"><img src="https://img.shields.io/badge/Slides-grey?style=flat" alt="Slides"></a></span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Jeehyun Hwang, Yidan Shi, Haixin Wang, Wen-Chih Peng, Tien-Fu Chen, Wei Wang</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="qxL8FJ1GzNcC" %} <a href="https://github.com/blacksnail789521/Time-IMM"><img src="https://img.shields.io/github/stars/blacksnail789521/Time-IMM?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://github.com/blacksnail789521/IMM-TSF"><img src="https://img.shields.io/github/stars/blacksnail789521/IMM-TSF?style=social&amp;label=Dataset+Stars" alt="Dataset Stars"></a> <a href="https://blacksnail789521.github.io/time-imm-project-page/"><img src="https://img.shields.io/badge/Project-Page-grey?style=flat" alt="Project Page"></a> <a href="https://recorder-v3.slideslive.com/?share=103254&amp;s=e5709e82-503d-4a79-88b1-271b89b1f69f"><img src="https://img.shields.io/badge/Video-grey?style=flat" alt="Video"></a> <a href="https://docs.google.com/presentation/d/199W1ktlDa3lwBfGAhLSSGoD7LDLzlgO5/edit?usp=sharing"><img src="https://img.shields.io/badge/Slides-grey?style=flat" alt="Slides"></a></p>
     <div class="pub-fig"><img src="images/papers/timeimm.png" alt="Time-IMM" width="1593" height="794" loading="lazy"></div>
     <p class="pub-desc">Time-IMM is a comprehensive benchmark and open-source library designed for irregular, multimodal time series. It introduces nine real-world datasets across diverse domains and provides tools for fusing asynchronous text with numeric signals, showing that multimodal integration can significantly enhance forecasting in complex, real-world settings.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">ACM TIST 2025</span> <a href="https://dl.acm.org/doi/10.1145/3719207">LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters</a></summary>
+  <summary><span class="pub-badge">ACM TIST 2025</span> <a href="https://dl.acm.org/doi/10.1145/3719207">LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Zph67rFs4hoC" %} <a href="https://github.com/blacksnail789521/LLM4TS"><img src="https://img.shields.io/github/stars/blacksnail789521/LLM4TS?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Zph67rFs4hoC" %} <a href="https://github.com/blacksnail789521/LLM4TS"><img src="https://img.shields.io/github/stars/blacksnail789521/LLM4TS?style=social&amp;label=Code+Stars" alt="Code Stars"></a></p>
     <div class="pub-fig"><img src="images/papers/llm4ts.png" alt="LLM4TS" width="1952" height="900" loading="lazy"></div>
     <p class="pub-desc">LLM4TS is a framework that adapts pre-trained Large Language Models for multivariate time series forecasting through a two-stage fine-tuning process. It captures multi-scale temporal patterns and achieves state-of-the-art performance across full-shot and few-shot settings.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">TechRxiv 2025</span> <a href="https://www.techrxiv.org/users/1020340/articles/1380448-training-recipes-for-agentic-reinforcement-learning-in-llms-a-survey">Training Recipes for Agentic Reinforcement Learning in LLMs: A Survey</a></summary>
+  <summary><span class="pub-badge">TechRxiv 2025</span> <a href="https://www.techrxiv.org/users/1020340/articles/1380448-training-recipes-for-agentic-reinforcement-learning-in-llms-a-survey">Training Recipes for Agentic Reinforcement Learning in LLMs: A Survey</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Yijia Xiao, Jade Xu, Fred Xu, Chenchen Ye, Ruoyan Li, Junkai Zhang, Yihe Deng, Kyle Zheng, Ethan Ji, Alexander K Taylor, Weikai Li, Maryam Haghifam, Anthony Cuturrufo, Renliang Sun, Jiahang Sha, Yidan Shi, Wen-Chih Peng, Yizhou Sun, Wei Wang</span>
+    <span class="pub-links"><a href="https://github.com/blacksnail789521/Agentic-RL-Training-Recipes"><img src="https://img.shields.io/github/stars/blacksnail789521/Agentic-RL-Training-Recipes?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Yijia Xiao, Jade Xu, Fred Xu, Chenchen Ye, Ruoyan Li, Junkai Zhang, Yihe Deng, Kyle Zheng, Ethan Ji, Alexander K Taylor, Weikai Li, Maryam Haghifam, Anthony Cuturrufo, Renliang Sun, Jiahang Sha, Yidan Shi, Wen-Chih Peng, Yizhou Sun, Wei Wang</p>
-    <p><a href="https://github.com/blacksnail789521/Agentic-RL-Training-Recipes"><img src="https://img.shields.io/github/stars/blacksnail789521/Agentic-RL-Training-Recipes?style=social&amp;label=Code+Stars" alt="Code Stars"></a></p>
     <div class="pub-fig"><img src="images/papers/agentic_rl_survey.png" alt="Agentic RL Survey" width="1589" height="703" loading="lazy"></div>
     <p class="pub-desc">This survey systematizes the training recipes, infrastructure, and environments of Agentic Reinforcement Learning to provide a unified framework for building robust, generalist autonomous agents from scratch, addressing the shortcomings of standard alignment methods like RLHF.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">TMLR 2026</span> <a href="https://openreview.net/forum?id=l3QW42g6u3">A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models</a></summary>
+  <summary><span class="pub-badge">TMLR 2026</span> <a href="https://openreview.net/forum?id=l3QW42g6u3">A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Yidan Shi, Defu Cao, Wei Yang, Jeehyun Hwang, Haixin Wang, Jiacheng Pang, Wei Wang, Yan Liu, Wen-Chih Peng, Tien-Fu Chen</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Wp0gIr-vW9MC" %} <a href="https://github.com/blacksnail789521/Time-Series-Reasoning-Survey"><img src="https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Yidan Shi, Defu Cao, Wei Yang, Jeehyun Hwang, Haixin Wang, Jiacheng Pang, Wei Wang, Yan Liu, Wen-Chih Peng, Tien-Fu Chen</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Wp0gIr-vW9MC" %} <a href="https://github.com/blacksnail789521/Time-Series-Reasoning-Survey"><img src="https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&amp;label=Code+Stars" alt="Code Stars"></a></p>
     <div class="pub-fig"><img src="images/papers/ts_reasoning_survey.png" alt="Time-Series-Reasoning-Survey" width="2153" height="956" loading="lazy"></div>
     <p class="pub-desc">Defines time-series reasoning through a two-level taxonomy (reasoning topology × primary objectives) and a compact attribute tag set (e.g., decomposition, verification, tool use, multimodality, alignment), while curating research and non-research works with guidance on evaluation and deployment.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">ICDM 2026</span> <a href="https://arxiv.org/abs/2510.09930">Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory</a></summary>
+  <summary><span class="pub-badge">ICDM 2026</span> <a href="https://arxiv.org/abs/2510.09930">Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Ming-Chih Lo, Chiao-Tung Chan, Wen-Chih Peng, Tien-Fu Chen</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="mVmsd5A6BfQC" %} <a href="https://github.com/blacksnail789521/Perseus"><img src="https://img.shields.io/github/stars/blacksnail789521/Perseus?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Ming-Chih Lo, Chiao-Tung Chan, Wen-Chih Peng, Tien-Fu Chen</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="mVmsd5A6BfQC" %} <a href="https://github.com/blacksnail789521/Perseus"><img src="https://img.shields.io/github/stars/blacksnail789521/Perseus?style=social&amp;label=Code+Stars" alt="Code Stars"></a></p>
     <div class="pub-fig"><img src="images/papers/perseus.png" alt="Perseus" width="2888" height="1150" loading="lazy"></div>
     <p class="pub-desc">Perseus is an interactive framework for multi-granularity time series segmentation under sparse supervision. Each user prompt is encoded with its local context into a persistent memory bank, so predictions condition on all prompts accumulated across iterations rather than only their local neighborhood. Across six wearable-sensing and industrial datasets, it improves segmentation accuracy by 23% (single-granularity) and 85% (multi-granularity) over strong baselines, with more than double the per-iteration refinement gains of its predecessor PromptTSS.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">ICML 2026</span> <a href="https://doi.org/10.36227/techrxiv.177092226.67693184/v1">Position: Beyond Prediction: Toward Verifiable Physiological Waveform Reasoning with Foundation Models and Agentic LLMs</a></summary>
+  <summary><span class="pub-badge">ICML 2026</span> <a href="https://doi.org/10.36227/techrxiv.177092226.67693184/v1">Position: Beyond Prediction: Toward Verifiable Physiological Waveform Reasoning with Foundation Models and Agentic LLMs</a>
+    <span class="pub-authors">Xiaoda Wang, <b>Ching Chang</b>, Defu Cao, Kaiqiao Han, Fang Sun, Yue Huang, Minxiao Wang, Chang Xu, Xiao Luo, Runze Yan, Xiangliang Zhang, Xiao Hu, Yan Liu, Yizhou Sun, Wei Wang, Carl Yang</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="dhFuZR0502QC" %}</span>
+  </summary>
   <div class="pub-body">
-    <p>Xiaoda Wang, <b>Ching Chang</b>, Defu Cao, Kaiqiao Han, Fang Sun, Yue Huang, Minxiao Wang, Chang Xu, Xiao Luo, Runze Yan, Xiangliang Zhang, Xiao Hu, Yan Liu, Yizhou Sun, Wei Wang, Carl Yang</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="dhFuZR0502QC" %}</p>
+    <p class="pub-desc">This position paper argues that physiological waveform analysis should move beyond black-box prediction toward verifiable reasoning, mapping how foundation models and agentic LLMs can ground, verify, and explain conclusions drawn from signals such as ECG and PPG, and laying out the field's open challenges and research agenda.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">KDD 2026</span> <a href="https://arxiv.org/abs/2505.20349">FD-Bench: A Modular and Fair Benchmark for Data-driven Fluid Simulation</a></summary>
+  <summary><span class="pub-badge">KDD 2026</span> <a href="https://arxiv.org/abs/2505.20349">FD-Bench: A Modular and Fair Benchmark for Data-driven Fluid Simulation</a>
+    <span class="pub-authors">Haixin Wang, Ruoyan Li, Fred Xu, Fang Sun, Kaiqiao Han, Zijie Huang, <b>Ching Chang</b>, Xiao Luo, Wei Wang, Yizhou Sun</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="4DMP91E08xMC" %} <a href="https://github.com/WillDreamer/FD-Bench"><img src="https://img.shields.io/github/stars/WillDreamer/FD-Bench?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
+  </summary>
   <div class="pub-body">
-    <p>Haixin Wang, Ruoyan Li, Fred Xu, Fang Sun, Kaiqiao Han, Zijie Huang, <b>Ching Chang</b>, Xiao Luo, Wei Wang, Yizhou Sun</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="4DMP91E08xMC" %} <a href="https://github.com/WillDreamer/FD-Bench"><img src="https://img.shields.io/github/stars/WillDreamer/FD-Bench?style=social&amp;label=Code+Stars" alt="Code Stars"></a></p>
+    <p class="pub-desc">FD-Bench is a modular benchmark for data-driven fluid simulation that enables fair, reproducible comparisons across spatial, temporal, and loss-function design choices, evaluating 85 baseline models over diverse flow scenarios with standardized protocols and a public leaderboard.</p>
   </div>
 </details>
 
-<details class="pub">
-  <summary><span class="pub-badge">Under Review (NeurIPS 2026)</span> FraMe: Fractal Generative Framework for Molecular Dynamics</summary>
-  <div class="pub-body">
-    <p>Yidan Shi, Fang Sun, Yuanzhou Chen, Yanqiao Zhu, Jeehyun Hwang, <b>Ching Chang</b>, Yizhou Sun, Wei Wang</p>
-  </div>
-</details>
+<div class="pub">
+  <span class="pub-badge">Under Review (NeurIPS 2026)</span> FraMe: Fractal Generative Framework for Molecular Dynamics
+  <span class="pub-authors">Yidan Shi, Fang Sun, Yuanzhou Chen, Yanqiao Zhu, Jeehyun Hwang, <b>Ching Chang</b>, Yizhou Sun, Wei Wang</span>
+</div>
 
 <details class="pub">
-  <summary><span class="pub-badge">CIKM 2025</span> <a href="https://doi.org/10.1145/3746252.3761142">PromptTSS: A Prompting-Based Approach for Interactive Multi-Granularity Time Series Segmentation</a></summary>
+  <summary><span class="pub-badge">CIKM 2025</span> <a href="https://doi.org/10.1145/3746252.3761142">PromptTSS: A Prompting-Based Approach for Interactive Multi-Granularity Time Series Segmentation</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="aqlVkmm33-oC" %} <a href="https://github.com/blacksnail789521/PromptTSS"><img src="https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://docs.google.com/presentation/d/1V0LVSP-4VTjj-B81AIC64TM9LHXgisJo/edit?usp=sharing&amp;ouid=102526612289511924674&amp;rtpof=true&amp;sd=true"><img src="https://img.shields.io/badge/Slides-grey?style=flat" alt="Slides"></a> <a href="https://youtu.be/u5teQmsHsHI"><img src="https://img.shields.io/badge/Video-grey?style=flat" alt="Video"></a></span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="aqlVkmm33-oC" %} <a href="https://github.com/blacksnail789521/PromptTSS"><img src="https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://docs.google.com/presentation/d/1V0LVSP-4VTjj-B81AIC64TM9LHXgisJo/edit?usp=sharing&amp;ouid=102526612289511924674&amp;rtpof=true&amp;sd=true"><img src="https://img.shields.io/badge/Slides-grey?style=flat" alt="Slides"></a> <a href="https://youtu.be/u5teQmsHsHI"><img src="https://img.shields.io/badge/Video-grey?style=flat" alt="Video"></a></p>
     <div class="pub-fig"><img src="images/papers/prompttss.png" alt="PromptTSS" width="3491" height="1369" loading="lazy"></div>
     <p class="pub-desc">PromptTSS is a framework that unifies coarse- and fine-grained time series segmentation using prompts for dynamic adaptation. It achieves substantial accuracy gains in segmentation and transfer learning, showing strong effectiveness for hierarchical, evolving time series.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">ICDE 2024</span> <a href="https://arxiv.org/abs/2312.04142">TimeDRL: Disentangled Representation Learning for Multivariate Time-Series</a></summary>
+  <summary><span class="pub-badge">ICDE 2024</span> <a href="https://arxiv.org/abs/2312.04142">TimeDRL: Disentangled Representation Learning for Multivariate Time-Series</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Chiao-Tung Chan, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="WF5omc3nYNoC" %} <a href="https://github.com/blacksnail789521/TimeDRL"><img src="https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://youtu.be/LyDl77cS7Ko"><img src="https://img.shields.io/badge/Video-grey?style=flat" alt="Video"></a></span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Chiao-Tung Chan, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="WF5omc3nYNoC" %} <a href="https://github.com/blacksnail789521/TimeDRL"><img src="https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://youtu.be/LyDl77cS7Ko"><img src="https://img.shields.io/badge/Video-grey?style=flat" alt="Video"></a></p>
     <div class="pub-fig"><img src="images/papers/timedrl.png" alt="TimeDRL" width="2048" height="894" loading="lazy"></div>
     <p class="pub-desc">TimeDRL is a self-supervised learning framework for multivariate time series data that learns disentangled timestamp- and instance-level embeddings without relying on augmentations. It introduces dual-level objectives for predictive and contrastive learning, and achieves strong performance across forecasting and classification tasks, even in low-label scenarios.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">CIKM 2024</span> <a href="https://arxiv.org/abs/2407.12254">COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data</a></summary>
+  <summary><span class="pub-badge">CIKM 2024</span> <a href="https://arxiv.org/abs/2407.12254">COKE: Causal Discovery with Chronological Order and Expert Knowledge in High Proportion of Missing Manufacturing Data</a>
+    <span class="pub-authors">Ting-Yun Ou, <b>Ching Chang</b>, Wen-Chih Peng</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="UebtZRa9Y70C" %} <a href="https://github.com/outingyun/coke"><img src="https://img.shields.io/github/stars/outingyun/coke?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
+  </summary>
   <div class="pub-body">
-    <p>Ting-Yun Ou, <b>Ching Chang</b>, Wen-Chih Peng</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="UebtZRa9Y70C" %} <a href="https://github.com/outingyun/coke"><img src="https://img.shields.io/github/stars/outingyun/coke?style=social&amp;label=Code+Stars" alt="Code Stars"></a></p>
+    <p class="pub-desc">COKE discovers causal graphs in manufacturing data with extreme missingness (up to 90%) by exploiting expert knowledge and the chronological order among sensors instead of imputing missing values, improving F1-score by 39.9% on average over prior methods on semiconductor manufacturing datasets.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">AAAI 2024</span> <a href="https://arxiv.org/abs/2402.01140">Root Cause Analysis in Microservice Using Neural Granger Causal Discovery</a></summary>
+  <summary><span class="pub-badge">AAAI 2024</span> <a href="https://arxiv.org/abs/2402.01140">Root Cause Analysis in Microservice Using Neural Granger Causal Discovery</a>
+    <span class="pub-authors">Zheng-Ming Lin, <b>Ching Chang</b>, Wei-Yao Wang, Kuang-Da Wang, Wen-Chih Peng</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="_FxGoFyzp5QC" %} <a href="https://github.com/zmlin1998/RUN"><img src="https://img.shields.io/github/stars/zmlin1998/RUN?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
+  </summary>
   <div class="pub-body">
-    <p>Zheng-Ming Lin, <b>Ching Chang</b>, Wei-Yao Wang, Kuang-Da Wang, Wen-Chih Peng</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="_FxGoFyzp5QC" %} <a href="https://github.com/zmlin1998/RUN"><img src="https://img.shields.io/github/stars/zmlin1998/RUN?style=social&amp;label=Code+Stars" alt="Code Stars"></a></p>
+    <p class="pub-desc">RUN performs root cause analysis in microservice systems via neural Granger causal discovery with contrastive learning, exploiting temporal precedence in time series to localize failure sources more accurately than existing techniques.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">NeurIPS 2024 (Workshop: Time Series in the Age of Large Models)</span> <a href="https://arxiv.org/abs/2411.00929">Text2Freq: Learning Series Patterns from Text via Frequency Domain</a></summary>
+  <summary><span class="pub-badge">NeurIPS 2024 (Workshop: Time Series in the Age of Large Models)</span> <a href="https://arxiv.org/abs/2411.00929">Text2Freq: Learning Series Patterns from Text via Frequency Domain</a>
+    <span class="pub-authors">Ming-Chih Lo, <b>Ching Chang</b>, Wen-Chih Peng</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="hqOjcs7Dif8C" %}</span>
+  </summary>
   <div class="pub-body">
-    <p>Ming-Chih Lo, <b>Ching Chang</b>, Wen-Chih Peng</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="hqOjcs7Dif8C" %}</p>
+    <p class="pub-desc">Text2Freq integrates textual event information with time series through the frequency domain, aligning text to the low-frequency components of the series to bridge the modality gap and improve forecasting performance.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">NeurIPS 2024 (Workshop: Time Series in the Age of Large Models)</span> <a href="https://openreview.net/forum?id=AaRCmJieG4">Align and Fine-Tune: Enhancing LLMs for Time-Series Forecasting</a></summary>
+  <summary><span class="pub-badge">NeurIPS 2024 (Workshop: Time Series in the Age of Large Models)</span> <a href="https://openreview.net/forum?id=AaRCmJieG4">Align and Fine-Tune: Enhancing LLMs for Time-Series Forecasting</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen, Sagar Samtani</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="5nxA0vEk-isC" %}</span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen, Sagar Samtani</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="5nxA0vEk-isC" %}</p>
+    <p class="pub-desc">Proposes an align-then-fine-tune recipe for adapting pre-trained LLMs to time-series forecasting — first aligning temporal representations with the language model's embedding space, then fine-tuning for the forecasting task; the workshop precursor to LLM4TS.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">NeurIPS 2024 (Workshop: Self-Supervised Learning - Theory and Practice)</span> <a href="https://openreview.net/forum?id=GnME2Gx5H3">Self-Supervised Learning of Disentangled Representations for Multivariate Time-Series</a></summary>
+  <summary><span class="pub-badge">NeurIPS 2024 (Workshop: Self-Supervised Learning - Theory and Practice)</span> <a href="https://openreview.net/forum?id=GnME2Gx5H3">Self-Supervised Learning of Disentangled Representations for Multivariate Time-Series</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Chan Chiao-Tung, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="8k81kl-MbHgC" %}</span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Chan Chiao-Tung, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen</p>
-    <p>{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="8k81kl-MbHgC" %}</p>
+    <p class="pub-desc">Learns disentangled timestamp-level and instance-level representations of multivariate time series with self-supervised objectives, reducing reliance on augmentation-induced inductive biases; the workshop precursor to TimeDRL.</p>
   </div>
 </details>
 
 <details class="pub">
-  <summary><span class="pub-badge">AAAI 2025 (Workshop: AI4TS)</span> <a href="https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_Ready_AAAI2025/23%5CCameraReady%5CPromptTSS__AAAI_2025_workshop_.pdf">PromptTSS: A Unified Model for Time Series Segmentation with Multi-Granularity States</a></summary>
+  <summary><span class="pub-badge">AAAI 2025 (Workshop: AI4TS)</span> <a href="https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_Ready_AAAI2025/23%5CCameraReady%5CPromptTSS__AAAI_2025_workshop_.pdf">PromptTSS: A Unified Model for Time Series Segmentation with Multi-Granularity States</a>
+    <span class="pub-authors"><b>Ching Chang</b>, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen</span>
+  </summary>
   <div class="pub-body">
-    <p><b>Ching Chang</b>, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen</p>
+    <p class="pub-desc">Workshop version of PromptTSS: a unified segmentation model that captures time series states at multiple granularities within a single prompting-based architecture.</p>
   </div>
 </details>
 
