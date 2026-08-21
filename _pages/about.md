@@ -119,6 +119,23 @@ details.pub:not([open]) .pub-authors { /* one line until expanded */
   vertical-align: middle;
   height: 20px;
 }
+a.pub-link-btn {
+  display: inline-block;
+  padding: 0.05em 0.6em;
+  border-radius: 999px;
+  border: 1px solid rgba(128, 128, 128, 0.4);
+  background: rgba(128, 128, 128, 0.12);
+  color: inherit !important;
+  font-size: 0.78em;
+  font-weight: 600;
+  text-decoration: none !important;
+  vertical-align: middle;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+a.pub-link-btn:hover {
+  background: rgba(52, 120, 183, 0.15);
+  border-color: rgba(52, 120, 183, 0.6);
+}
 .pub-badge {
   display: inline-block;
   font-size: 0.72em;
@@ -228,7 +245,7 @@ a.resume-btn:hover {
 <details class="pub" data-scholar-id="qxL8FJ1GzNcC">
   <summary><span class="pub-badge">NeurIPS 2025</span> <a href="https://arxiv.org/abs/2506.10412">Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series</a>
     <span class="pub-authors"><b>Ching Chang</b>, Jeehyun Hwang, Yidan Shi, Haixin Wang, Wen-Chih Peng, Tien-Fu Chen, Wei Wang</span>
-    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="qxL8FJ1GzNcC" %} <a href="https://github.com/blacksnail789521/Time-IMM"><img src="https://img.shields.io/github/stars/blacksnail789521/Time-IMM?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://github.com/blacksnail789521/IMM-TSF"><img src="https://img.shields.io/github/stars/blacksnail789521/IMM-TSF?style=social&amp;label=Dataset+Stars" alt="Dataset Stars"></a> <a href="https://blacksnail789521.github.io/time-imm-project-page/"><img src="https://img.shields.io/badge/Project-Page-grey?style=flat" alt="Project Page"></a> <a href="https://recorder-v3.slideslive.com/?share=103254&amp;s=e5709e82-503d-4a79-88b1-271b89b1f69f"><img src="https://img.shields.io/badge/Video-grey?style=flat" alt="Video"></a> <a href="https://docs.google.com/presentation/d/199W1ktlDa3lwBfGAhLSSGoD7LDLzlgO5/edit?usp=sharing"><img src="https://img.shields.io/badge/Slides-grey?style=flat" alt="Slides"></a></span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="qxL8FJ1GzNcC" %} <a href="https://github.com/blacksnail789521/Time-IMM"><img src="https://img.shields.io/github/stars/blacksnail789521/Time-IMM?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://github.com/blacksnail789521/IMM-TSF"><img src="https://img.shields.io/github/stars/blacksnail789521/IMM-TSF?style=social&amp;label=Dataset+Stars" alt="Dataset Stars"></a> <a class="pub-link-btn" href="https://blacksnail789521.github.io/time-imm-project-page/">Project Page</a> <a class="pub-link-btn" href="https://recorder-v3.slideslive.com/?share=103254&amp;s=e5709e82-503d-4a79-88b1-271b89b1f69f">Video</a> <a class="pub-link-btn" href="https://docs.google.com/presentation/d/199W1ktlDa3lwBfGAhLSSGoD7LDLzlgO5/edit?usp=sharing">Slides</a></span>
   </summary>
   <div class="pub-body">
     <div class="pub-fig"><img src="images/papers/timeimm.png" alt="Time-IMM" width="1593" height="794" loading="lazy"></div>
@@ -310,7 +327,7 @@ a.resume-btn:hover {
 <details class="pub" data-scholar-id="aqlVkmm33-oC">
   <summary><span class="pub-badge">CIKM 2025</span> <a href="https://doi.org/10.1145/3746252.3761142">PromptTSS: A Prompting-Based Approach for Interactive Multi-Granularity Time Series Segmentation</a>
     <span class="pub-authors"><b>Ching Chang</b>, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen</span>
-    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="aqlVkmm33-oC" %} <a href="https://github.com/blacksnail789521/PromptTSS"><img src="https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://docs.google.com/presentation/d/1V0LVSP-4VTjj-B81AIC64TM9LHXgisJo/edit?usp=sharing&amp;ouid=102526612289511924674&amp;rtpof=true&amp;sd=true"><img src="https://img.shields.io/badge/Slides-grey?style=flat" alt="Slides"></a> <a href="https://youtu.be/u5teQmsHsHI"><img src="https://img.shields.io/badge/Video-grey?style=flat" alt="Video"></a></span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="aqlVkmm33-oC" %} <a href="https://github.com/blacksnail789521/PromptTSS"><img src="https://img.shields.io/github/stars/blacksnail789521/PromptTSS?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a class="pub-link-btn" href="https://docs.google.com/presentation/d/1V0LVSP-4VTjj-B81AIC64TM9LHXgisJo/edit?usp=sharing&amp;ouid=102526612289511924674&amp;rtpof=true&amp;sd=true">Slides</a> <a class="pub-link-btn" href="https://youtu.be/u5teQmsHsHI">Video</a></span>
   </summary>
   <div class="pub-body">
     <div class="pub-fig"><img src="images/papers/prompttss.png" alt="PromptTSS" width="3491" height="1369" loading="lazy"></div>
@@ -321,7 +338,7 @@ a.resume-btn:hover {
 <details class="pub" data-scholar-id="WF5omc3nYNoC">
   <summary><span class="pub-badge">ICDE 2024</span> <a href="https://arxiv.org/abs/2312.04142">TimeDRL: Disentangled Representation Learning for Multivariate Time-Series</a>
     <span class="pub-authors"><b>Ching Chang</b>, Chiao-Tung Chan, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen</span>
-    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="WF5omc3nYNoC" %} <a href="https://github.com/blacksnail789521/TimeDRL"><img src="https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://youtu.be/LyDl77cS7Ko"><img src="https://img.shields.io/badge/Video-grey?style=flat" alt="Video"></a></span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="WF5omc3nYNoC" %} <a href="https://github.com/blacksnail789521/TimeDRL"><img src="https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a class="pub-link-btn" href="https://youtu.be/LyDl77cS7Ko">Video</a></span>
   </summary>
   <div class="pub-body">
     <div class="pub-fig"><img src="images/papers/timedrl.png" alt="TimeDRL" width="2048" height="894" loading="lazy"></div>
