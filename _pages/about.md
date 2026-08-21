@@ -24,6 +24,10 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 **Work Authorization:** EB-1A I-140 Approved • EAD expected 2026.11 (no visa sponsorship required)
 
+<p style="margin-top: 0.8em;">
+  <a class="resume-btn" href="/resume/Ching%20Chang_Resume.pdf" target="_blank" rel="noopener">📄&nbsp; Download Resume (PDF)</a>
+</p>
+
 
 # 📖 Education
 
@@ -50,57 +54,108 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 <style>
 .pub {
-  border: 1px solid rgba(128, 128, 128, 0.35);
+  border: 1px solid rgba(128, 128, 128, 0.3);
   border-radius: 8px;
-  padding: 0.55em 0.9em;
-  margin: 0.6em 0;
-  line-height: 1.5;
+  padding: 0.5em 2.2em 0.5em 0.8em; /* right gutter hosts the chevron */
+  margin: 0.45em 0;
+  line-height: 1.45;
+  transition: border-color 0.15s ease;
+}
+.pub:hover {
+  border-color: rgba(52, 120, 183, 0.55);
 }
 details.pub summary {
   cursor: pointer;
+  position: relative;
+  list-style: none; /* default triangle replaced by the chevron below */
 }
-details.pub summary:hover > a {
-  color: #337ab7;
+details.pub summary::-webkit-details-marker {
+  display: none;
+}
+details.pub summary::after { /* right-aligned chevron, rotates when open */
+  content: "";
+  position: absolute;
+  right: -1.5em;
+  top: 0.45em;
+  width: 0.45em;
+  height: 0.45em;
+  border-right: 2px solid rgba(128, 128, 128, 0.7);
+  border-bottom: 2px solid rgba(128, 128, 128, 0.7);
+  transform: rotate(45deg);
+  transition: transform 0.2s ease;
+}
+details.pub[open] summary::after {
+  transform: rotate(225deg);
+  top: 0.6em;
+}
+details.pub summary:focus-visible {
+  outline: 2px solid rgba(52, 120, 183, 0.6);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+details.pub summary > a {
+  font-weight: 600;
+  text-decoration: none;
+}
+details.pub summary > a:hover {
+  text-decoration: underline;
 }
 .pub-authors {
   display: block;
-  margin-top: 0.25em;
-  font-size: 0.95em;
+  margin-top: 0.15em;
+  font-size: 0.85em;
+  opacity: 0.75;
+}
+details.pub:not([open]) .pub-authors { /* one line until expanded */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .pub-links {
   display: block;
-  margin-top: 0.35em;
+  margin-top: 0.3em;
 }
 .pub-links img {
   vertical-align: middle;
+  height: 20px;
 }
 .pub-badge {
   display: inline-block;
-  font-size: 0.78em;
-  font-weight: 600;
-  padding: 0.12em 0.55em;
-  border-radius: 4px;
-  background: rgba(128, 128, 128, 0.15);
-  border: 1px solid rgba(128, 128, 128, 0.35);
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.12em 0.6em;
+  border-radius: 999px;
+  background: rgba(52, 120, 183, 0.13);
+  border: 1px solid rgba(52, 120, 183, 0.3);
   color: inherit;
   margin-right: 0.3em;
-  vertical-align: 0.08em;
+  vertical-align: 0.14em;
+  white-space: nowrap;
 }
 .pub-body {
-  margin-top: 0.7em;
+  margin-top: 0.55em;
+}
+details.pub[open] .pub-body {
+  animation: pubfade 0.18s ease-out;
+}
+@keyframes pubfade {
+  from { opacity: 0; transform: translateY(-2px); }
+  to   { opacity: 1; transform: none; }
 }
 .pub-body p {
   margin: 0 0 0.3em;
 }
 .pub-desc {
-  font-size: 0.95em;
+  font-size: 0.9em;
+  opacity: 0.85;
 }
 .pub-fig {
   background-color: white; /* force white behind image (figures are drawn for white) */
   border: 1px solid rgba(128, 128, 128, 0.25);
   border-radius: 6px;
   overflow: hidden;
-  margin: 0.6em 0;
+  margin: 0.55em 0;
 }
 .pub-fig img {
   background-color: white; /* if PNG has transparency */
@@ -108,9 +163,29 @@ details.pub summary:hover > a {
   width: 100%;
   height: auto;
 }
+.pub-hint {
+  font-size: 0.85em;
+  opacity: 0.6;
+  margin-bottom: 0.4em;
+}
+a.resume-btn {
+  display: inline-block;
+  padding: 0.5em 1.2em;
+  border-radius: 999px;
+  background: #337ab7;
+  color: #fff !important;
+  font-weight: 600;
+  text-decoration: none !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+a.resume-btn:hover {
+  background: #29629a;
+  transform: translateY(-1px);
+}
 </style>
 
-<p><i>Click a paper to expand its figure and abstract.</i></p>
+<p class="pub-hint"><i>Click a paper to expand its figure and abstract.</i></p>
 
 <details class="pub">
   <summary><span class="pub-badge">NeurIPS 2025</span> <a href="https://arxiv.org/abs/2506.10412">Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series</a>
