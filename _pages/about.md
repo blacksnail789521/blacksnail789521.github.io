@@ -199,18 +199,19 @@ details.pub[open] .pub-body {
 }
 a.resume-btn {
   display: inline-block;
-  padding: 0.5em 1.2em;
+  padding: 0.3em 0.9em;
   border-radius: 999px;
-  background: #337ab7;
-  color: #fff !important;
+  border: 1px solid rgba(52, 120, 183, 0.5);
+  background: rgba(52, 120, 183, 0.13);
+  color: inherit !important;
   font-weight: 600;
+  font-size: 0.9em;
   text-decoration: none !important;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
-  transition: background 0.15s ease, transform 0.15s ease;
+  transition: background 0.15s ease, border-color 0.15s ease;
 }
 a.resume-btn:hover {
-  background: #29629a;
-  transform: translateY(-1px);
+  background: rgba(52, 120, 183, 0.25);
+  border-color: rgba(52, 120, 183, 0.7);
 }
 </style>
 
