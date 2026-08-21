@@ -467,17 +467,17 @@ a.resume-btn:hover {
 - *2025.09*, **Time Series AI for Strategic Business Intelligence and Manufacturing Optimization**, *TSMC AI4BI Innovation Center*
   
   Delivered a talk on leveraging AI-driven time series analysis to generate actionable business intelligence.
-  [![](https://img.shields.io/badge/Slides-grey?style=flat)](https://drive.google.com/file/d/1oSLXOhx9DsBxLB8m9pm_-qHbnNIGPHxf/view?usp=sharing)
+  <a class="pub-link-btn" href="https://drive.google.com/file/d/1oSLXOhx9DsBxLB8m9pm_-qHbnNIGPHxf/view?usp=sharing">Slides</a>
 
 - *2025.06*, **Advanced Time Series Analysis Techniques for Industrial Applications**, *University of Southern California (USC)*
   
   Delivered a talk on cutting-edge time series analysis methods tailored for deployment in industrial and manufacturing settings.
-  [![](https://img.shields.io/badge/Slides-grey?style=flat)](https://drive.google.com/file/d/1eD-53hLCqnPFsS0EYF8BpSBT8IRjnZSv/view?usp=sharing)
+  <a class="pub-link-btn" href="https://drive.google.com/file/d/1eD-53hLCqnPFsS0EYF8BpSBT8IRjnZSv/view?usp=sharing">Slides</a>
 
 - *2023.08*, **Time Series Analysis with LLMs**, *LLM Industry-Academia Technical Exchange Conference, National Center for High-Performance Computing*
   
   Discussed the use of large language models for analyzing time series data and their potential applications in industry.  
-  Shared the stage with **Hung-Yi Lee** and **Hsiang-Tsung Kung**. [![](https://img.shields.io/badge/Website-grey?style=flat)](https://nycuaib.web.nycu.edu.tw/) [![](https://img.shields.io/badge/Slides-grey?style=flat)](https://drive.google.com/file/d/1eRCoS0OoDHh_-kxDZ4pckEiLAWY6jB9q/view?usp=sharing) [![](https://img.shields.io/badge/Video-grey?style=flat)](https://youtu.be/QJOEW8PUidY)
+  Shared the stage with **Hung-Yi Lee** and **Hsiang-Tsung Kung**. <a class="pub-link-btn" href="https://nycuaib.web.nycu.edu.tw/">Website</a> <a class="pub-link-btn" href="https://drive.google.com/file/d/1eRCoS0OoDHh_-kxDZ4pckEiLAWY6jB9q/view?usp=sharing">Slides</a> <a class="pub-link-btn" href="https://youtu.be/QJOEW8PUidY">Video</a>
 
 # 🎓 Academic Services  
 
