@@ -286,6 +286,7 @@ a.resume-btn:hover {
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="dhFuZR0502QC" %}</span>
   </summary>
   <div class="pub-body">
+    <div class="pub-fig"><img src="images/papers/waveform_reasoning.png" alt="Verifiable physiological waveform reasoning" width="2115" height="880" loading="lazy"></div>
     <p class="pub-desc">This position paper argues that physiological waveform analysis should move beyond black-box prediction toward verifiable reasoning, mapping how foundation models and agentic LLMs can ground, verify, and explain conclusions drawn from signals such as ECG and PPG, and laying out the field's open challenges and research agenda.</p>
   </div>
 </details>
@@ -296,6 +297,7 @@ a.resume-btn:hover {
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="4DMP91E08xMC" %} <a href="https://github.com/WillDreamer/FD-Bench"><img src="https://img.shields.io/github/stars/WillDreamer/FD-Bench?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
   </summary>
   <div class="pub-body">
+    <div class="pub-fig"><img src="images/papers/fd_bench.png" alt="FD-Bench fluid flow scenarios" width="1230" height="600" loading="lazy"></div>
     <p class="pub-desc">FD-Bench is a modular benchmark for data-driven fluid simulation that enables fair, reproducible comparisons across spatial, temporal, and loss-function design choices, evaluating 85 baseline models over diverse flow scenarios with standardized protocols and a public leaderboard.</p>
   </div>
 </details>
@@ -333,6 +335,7 @@ a.resume-btn:hover {
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="UebtZRa9Y70C" %} <a href="https://github.com/outingyun/coke"><img src="https://img.shields.io/github/stars/outingyun/coke?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
   </summary>
   <div class="pub-body">
+    <div class="pub-fig"><img src="images/papers/coke.png" alt="COKE framework" width="1700" height="880" loading="lazy"></div>
     <p class="pub-desc">COKE discovers causal graphs in manufacturing data with extreme missingness (up to 90%) by exploiting expert knowledge and the chronological order among sensors instead of imputing missing values, improving F1-score by 39.9% on average over prior methods on semiconductor manufacturing datasets.</p>
   </div>
 </details>
@@ -343,6 +346,7 @@ a.resume-btn:hover {
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="_FxGoFyzp5QC" %} <a href="https://github.com/zmlin1998/RUN"><img src="https://img.shields.io/github/stars/zmlin1998/RUN?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
   </summary>
   <div class="pub-body">
+    <div class="pub-fig"><img src="images/papers/run.png" alt="RUN framework" width="2140" height="760" loading="lazy"></div>
     <p class="pub-desc">RUN performs root cause analysis in microservice systems via neural Granger causal discovery with contrastive learning, exploiting temporal precedence in time series to localize failure sources more accurately than existing techniques.</p>
   </div>
 </details>
@@ -353,6 +357,7 @@ a.resume-btn:hover {
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="hqOjcs7Dif8C" %}</span>
   </summary>
   <div class="pub-body">
+    <div class="pub-fig"><img src="images/papers/text2freq.png" alt="Text2Freq overview" width="1680" height="480" loading="lazy"></div>
     <p class="pub-desc">Text2Freq integrates textual event information with time series through the frequency domain, aligning text to the low-frequency components of the series to bridge the modality gap and improve forecasting performance.</p>
   </div>
 </details>
@@ -363,6 +368,7 @@ a.resume-btn:hover {
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="5nxA0vEk-isC" %}</span>
   </summary>
   <div class="pub-body">
+    <div class="pub-fig"><img src="images/papers/align_finetune.png" alt="Align and Fine-Tune framework" width="1980" height="980" loading="lazy"></div>
     <p class="pub-desc">Proposes an align-then-fine-tune recipe for adapting pre-trained LLMs to time-series forecasting — first aligning temporal representations with the language model's embedding space, then fine-tuning for the forecasting task; the workshop precursor to LLM4TS.</p>
   </div>
 </details>
@@ -373,6 +379,7 @@ a.resume-btn:hover {
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="8k81kl-MbHgC" %}</span>
   </summary>
   <div class="pub-body">
+    <div class="pub-fig"><img src="images/papers/ssl_disentangled.png" alt="Self-supervised learning without augmentation" width="2680" height="600" loading="lazy"></div>
     <p class="pub-desc">Learns disentangled timestamp-level and instance-level representations of multivariate time series with self-supervised objectives, reducing reliance on augmentation-induced inductive biases; the workshop precursor to TimeDRL.</p>
   </div>
 </details>
