@@ -192,7 +192,7 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 <!-- - ``ACM TIST 2025`` [LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters](https://dl.acm.org/doi/10.1145/3719207), **Ching Chang**, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen. [![](https://img.shields.io/github/stars/blacksnail789521/LLM4TS?style=social&label=Code+Stars)](https://github.com/blacksnail789521/LLM4TS)   -->
 
-- ``Under Review (ICDM 2026)`` Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory, **Ching Chang**, Ming-Chih Lo, Chiao-Tung Chan, Wen-Chih Peng, Tien-Fu Chen.
+- ``ICDM 2026`` [Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory](https://arxiv.org/abs/2510.09930), **Ching Chang**, Ming-Chih Lo, Chiao-Tung Chan, Wen-Chih Peng, Tien-Fu Chen. [![](https://img.shields.io/github/stars/blacksnail789521/Perseus?style=social&label=Code+Stars)](https://github.com/blacksnail789521/Perseus)
 
 - ``Under Review (NeurIPS 2026)`` FraMe: Fractal Generative Framework for Molecular Dynamics, Yidan Shi, Fang Sun, Yuanzhou Chen, Yanqiao Zhu, Jeehyun Hwang, **Ching Chang**, Yizhou Sun, Wei Wang.
 
