@@ -50,11 +50,10 @@ My research focuses on Time Series Analysis, Foundation Models, Multimodal Learn
 
 <style>
 details.pub {
-  border: 1px solid #e1e4e8;
+  border: 1px solid rgba(128, 128, 128, 0.35);
   border-radius: 8px;
   padding: 0.55em 0.9em;
   margin: 0.6em 0;
-  background-color: white;
 }
 details.pub summary {
   cursor: pointer;
@@ -69,9 +68,9 @@ details.pub summary:hover {
   font-weight: 600;
   padding: 0.12em 0.55em;
   border-radius: 4px;
-  background: #f1f3f5;
-  border: 1px solid #d8dde3;
-  color: #444;
+  background: rgba(128, 128, 128, 0.15);
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  color: inherit;
   margin-right: 0.3em;
   vertical-align: 0.08em;
 }
@@ -82,8 +81,8 @@ details.pub summary:hover {
   margin: 0 0 0.5em;
 }
 .pub-fig {
-  background-color: white; /* force white behind image */
-  border: 1px solid #eee;
+  background-color: white; /* force white behind image (figures are drawn for white) */
+  border: 1px solid rgba(128, 128, 128, 0.25);
   border-radius: 6px;
   overflow: hidden;
   margin: 0.6em 0;
