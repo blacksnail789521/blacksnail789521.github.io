@@ -264,15 +264,6 @@ details.pub summary:hover > a {
   </div>
 </details>
 
-<details class="pub">
-  <summary><span class="pub-badge">AAAI 2025 (Workshop: AI4TS)</span> <a href="https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_Ready_AAAI2025/23%5CCameraReady%5CPromptTSS__AAAI_2025_workshop_.pdf">PromptTSS: A Unified Model for Time Series Segmentation with Multi-Granularity States</a>
-    <span class="pub-authors"><b>Ching Chang</b>, Ming-Chih Lo, Wen-Chih Peng, Tien-Fu Chen</span>
-  </summary>
-  <div class="pub-body">
-    <p class="pub-desc">Workshop version of PromptTSS: a unified segmentation model that captures time series states at multiple granularities within a single prompting-based architecture.</p>
-  </div>
-</details>
-
 
 # 🎖 Honors and Awards
 
