@@ -22,7 +22,7 @@ Hello 👋, my name is Ching Chang, also known as Jason Chang. I am currently a 
 My research focuses on Time Series Analysis, Foundation Models, Multimodal Learning, Agentic Reinforcement Learning, and Reasoning. I have published multiple papers in top AI and data science conferences and journals, including NeurIPS, AAAI, ICDE, CIKM, and ACM TIST, with total
 <a href='https://scholar.google.com/citations?user=OXCVj48AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations"></a>.
 
-**Work Authorization:** EB-1A I-140 Approved • Currently on O-1A (new O-1A petition required for transfer)
+**Work Authorization:** EB-1A I-140 Approved • EAD expected 2026.11 (no visa sponsorship required)
 
 
 # 📖 Education
