@@ -168,17 +168,18 @@ details.pub[open] .pub-body {
   opacity: 0.85;
 }
 .pub-fig {
+  margin: 0.55em 0;
+}
+.pub-fig img { /* the frame lives on the img so it hugs figures narrowed by max-height */
   background-color: white; /* force white behind image (figures are drawn for white) */
   border: 1px solid rgba(128, 128, 128, 0.25);
   border-radius: 6px;
-  overflow: hidden;
-  margin: 0.55em 0;
-}
-.pub-fig img {
-  background-color: white; /* if PNG has transparency */
   display: block;
-  width: 100%;
+  margin: 0 auto; /* center figures narrower than the column */
+  width: auto;
+  max-width: 100%;
   height: auto;
+  max-height: 340px; /* cap tall figures; wide ones still fill the column */
 }
 .pub-hint {
   font-size: 0.85em;
