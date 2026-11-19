@@ -266,7 +266,7 @@ a.resume-btn:hover {
 </details>
 
 <details class="pub" data-scholar-id="7PzlFSSx8tAC">
-  <summary><span class="pub-badge">TechRxiv 2025</span> <a href="https://www.techrxiv.org/users/1020340/articles/1380448-training-recipes-for-agentic-reinforcement-learning-in-llms-a-survey">Training Recipes for Agentic Reinforcement Learning in LLMs: A Survey</a>
+  <summary><span class="pub-badge">EACL 2027</span> <a href="https://www.techrxiv.org/users/1020340/articles/1380448-training-recipes-for-agentic-reinforcement-learning-in-llms-a-survey">Training Recipes for Agentic Reinforcement Learning in LLMs: A Survey</a>
     <span class="pub-authors"><b>Ching Chang</b>, Yijia Xiao, Jade Xu, Fred Xu, Chenchen Ye, Ruoyan Li, Junkai Zhang, Yihe Deng, Kyle Zheng, Ethan Ji, Alexander K Taylor, Weikai Li, Maryam Haghifam, Anthony Cuturrufo, Renliang Sun, Jiahang Sha, Yidan Shi, Wen-Chih Peng, Yizhou Sun, Wei Wang</span>
     <span class="pub-links"><a href="https://github.com/blacksnail789521/Agentic-RL-Training-Recipes"><img src="https://img.shields.io/github/stars/blacksnail789521/Agentic-RL-Training-Recipes?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
   </summary>
