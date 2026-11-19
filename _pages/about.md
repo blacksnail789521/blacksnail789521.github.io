@@ -215,6 +215,15 @@ details.pub[open] .pub-body {
   border-color: rgba(52, 120, 183, 0.5);
   font-weight: 600;
 }
+/* "Featured" view: only the representative papers (data-featured); JS adds the
+   class, so without JS the full list simply stays visible. */
+#pub-list.featured-only .pub:not([data-featured]) {
+  display: none;
+}
+.pub-more {
+  margin: 0.6em 0 0;
+  font-size: 0.85em;
+}
 a.resume-btn {
   display: inline-block;
   padding: 0.3em 0.9em;
@@ -235,15 +244,16 @@ a.resume-btn:hover {
 
 <p class="pub-hint"><i>Click a paper to expand its figure and abstract.</i></p>
 
-<p class="pub-sort"><span class="pub-sort-label">Sort:</span>
+<p class="pub-sort"><span class="pub-sort-label">View:</span>
   <button type="button" class="pub-sort-btn active" data-sort="featured">Featured</button>
+  <button type="button" class="pub-sort-btn" data-sort="all">All</button>
   <button type="button" class="pub-sort-btn" data-sort="year">Newest</button>
   <button type="button" class="pub-sort-btn" data-sort="citations">Most cited</button>
 </p>
 
 <div id="pub-list">
 
-<details class="pub" data-scholar-id="qxL8FJ1GzNcC">
+<details class="pub" data-featured="true" data-scholar-id="qxL8FJ1GzNcC">
   <summary><span class="pub-badge">NeurIPS 2025</span> <a href="https://arxiv.org/abs/2506.10412">Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series</a>
     <span class="pub-authors"><b>Ching Chang</b>, Jeehyun Hwang, Yidan Shi, Haixin Wang, Wen-Chih Peng, Tien-Fu Chen, Wei Wang</span>
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="qxL8FJ1GzNcC" %} <a href="https://github.com/blacksnail789521/Time-IMM"><img src="https://img.shields.io/github/stars/blacksnail789521/Time-IMM?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a href="https://github.com/blacksnail789521/IMM-TSF"><img src="https://img.shields.io/github/stars/blacksnail789521/IMM-TSF?style=social&amp;label=Dataset+Stars" alt="Dataset Stars"></a> <a class="pub-link-btn" href="https://blacksnail789521.github.io/time-imm-project-page/">Project Page</a> <a class="pub-link-btn" href="https://recorder-v3.slideslive.com/?share=103254&amp;s=e5709e82-503d-4a79-88b1-271b89b1f69f">Video</a> <a class="pub-link-btn" href="https://docs.google.com/presentation/d/199W1ktlDa3lwBfGAhLSSGoD7LDLzlgO5/edit?usp=sharing">Slides</a></span>
@@ -254,7 +264,7 @@ a.resume-btn:hover {
   </div>
 </details>
 
-<details class="pub" data-scholar-id="Zph67rFs4hoC">
+<details class="pub" data-featured="true" data-scholar-id="Zph67rFs4hoC">
   <summary><span class="pub-badge">ACM TIST 2025</span> <a href="https://dl.acm.org/doi/10.1145/3719207">LLM4TS: Aligning Pre-Trained LLMs as Data-Efficient Time-Series Forecasters</a>
     <span class="pub-authors"><b>Ching Chang</b>, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen</span>
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Zph67rFs4hoC" %} <a href="https://github.com/blacksnail789521/LLM4TS"><img src="https://img.shields.io/github/stars/blacksnail789521/LLM4TS?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
@@ -265,7 +275,7 @@ a.resume-btn:hover {
   </div>
 </details>
 
-<details class="pub" data-scholar-id="7PzlFSSx8tAC">
+<details class="pub" data-featured="true" data-scholar-id="7PzlFSSx8tAC">
   <summary><span class="pub-badge">EACL 2027</span> <a href="https://www.techrxiv.org/users/1020340/articles/1380448-training-recipes-for-agentic-reinforcement-learning-in-llms-a-survey">Training Recipes for Agentic Reinforcement Learning in LLMs: A Survey</a>
     <span class="pub-authors"><b>Ching Chang</b>, Yijia Xiao, Jade Xu, Fred Xu, Chenchen Ye, Ruoyan Li, Junkai Zhang, Yihe Deng, Kyle Zheng, Ethan Ji, Alexander K Taylor, Weikai Li, Maryam Haghifam, Anthony Cuturrufo, Renliang Sun, Jiahang Sha, Yidan Shi, Wen-Chih Peng, Yizhou Sun, Wei Wang</span>
     <span class="pub-links"><a href="https://github.com/blacksnail789521/Agentic-RL-Training-Recipes"><img src="https://img.shields.io/github/stars/blacksnail789521/Agentic-RL-Training-Recipes?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
@@ -276,7 +286,7 @@ a.resume-btn:hover {
   </div>
 </details>
 
-<details class="pub" data-scholar-id="Wp0gIr-vW9MC">
+<details class="pub" data-featured="true" data-scholar-id="Wp0gIr-vW9MC">
   <summary><span class="pub-badge">TMLR 2026</span> <a href="https://openreview.net/forum?id=l3QW42g6u3">A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models</a>
     <span class="pub-authors"><b>Ching Chang</b>, Yidan Shi, Defu Cao, Wei Yang, Jeehyun Hwang, Haixin Wang, Jiacheng Pang, Wei Wang, Yan Liu, Wen-Chih Peng, Tien-Fu Chen</span>
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="Wp0gIr-vW9MC" %} <a href="https://github.com/blacksnail789521/Time-Series-Reasoning-Survey"><img src="https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
@@ -287,7 +297,7 @@ a.resume-btn:hover {
   </div>
 </details>
 
-<details class="pub" data-scholar-id="mVmsd5A6BfQC">
+<details class="pub" data-featured="true" data-scholar-id="mVmsd5A6BfQC">
   <summary><span class="pub-badge">ICDM 2026</span> <a href="https://arxiv.org/abs/2510.09930">Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory</a>
     <span class="pub-authors"><b>Ching Chang</b>, Ming-Chih Lo, Chiao-Tung Chan, Wen-Chih Peng, Tien-Fu Chen</span>
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="mVmsd5A6BfQC" %} <a href="https://github.com/blacksnail789521/Perseus"><img src="https://img.shields.io/github/stars/blacksnail789521/Perseus?style=social&amp;label=Code+Stars" alt="Code Stars"></a></span>
@@ -298,7 +308,7 @@ a.resume-btn:hover {
   </div>
 </details>
 
-<details class="pub" data-scholar-id="dhFuZR0502QC">
+<details class="pub" data-featured="true" data-scholar-id="dhFuZR0502QC">
   <summary><span class="pub-badge">ICML 2026</span> <a href="https://doi.org/10.36227/techrxiv.177092226.67693184/v1">Position: Beyond Prediction: Toward Verifiable Physiological Waveform Reasoning with Foundation Models and Agentic LLMs</a>
     <span class="pub-authors">Xiaoda Wang, <b>Ching Chang</b>, Defu Cao, Kaiqiao Han, Fang Sun, Yue Huang, Minxiao Wang, Chang Xu, Xiao Luo, Runze Yan, Xiangliang Zhang, Xiao Hu, Yan Liu, Yizhou Sun, Wei Wang, Carl Yang</span>
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="dhFuZR0502QC" %}</span>
@@ -306,6 +316,16 @@ a.resume-btn:hover {
   <div class="pub-body">
     <div class="pub-fig"><img src="images/papers/waveform_reasoning.png" alt="Verifiable physiological waveform reasoning" width="2115" height="880" loading="lazy"></div>
     <p class="pub-desc">This position paper argues that physiological waveform analysis should move beyond black-box prediction toward verifiable reasoning, mapping how foundation models and agentic LLMs can ground, verify, and explain conclusions drawn from signals such as ECG and PPG, and laying out the field's open challenges and research agenda.</p>
+  </div>
+</details>
+
+<details class="pub" data-scholar-id="L8Ckcad2t8MC">
+  <summary><span class="pub-badge">NeurIPS 2026</span> <a href="https://openreview.net/forum?id=iOvXn5DzBr">PPG2ECG: Physiology-Guided Latent Rectified Flow for Electro-Hemodynamic PPG-to-ECG Generation</a>
+    <span class="pub-authors">Xiaoda Wang, Minxiao Wang, Kaiqiao Han, Defu Cao, <b>Ching Chang</b>, Yidan Shi, Runze Yan, Xiao Luo, Yan Liu, Xiao Hu, Yizhou Sun, Wei Wang, Carl Yang</span>
+    <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="L8Ckcad2t8MC" %}</span>
+  </summary>
+  <div class="pub-body">
+    <p class="pub-desc">PPG2ECG generates ECG waveforms from the PPG signals that wearables already record. An electro-hemodynamic simulator that co-models ECG and PPG through shared cardiac phase dynamics structures the latent space and guides a PPG-conditioned latent rectified flow, yielding ECGs that are more faithful in morphology and beat timing and that improve downstream cardiovascular disease classification on the large-scale MC-MED dataset.</p>
   </div>
 </details>
 
@@ -336,7 +356,7 @@ a.resume-btn:hover {
   </div>
 </details>
 
-<details class="pub" data-scholar-id="WF5omc3nYNoC">
+<details class="pub" data-featured="true" data-scholar-id="WF5omc3nYNoC">
   <summary><span class="pub-badge">ICDE 2024</span> <a href="https://arxiv.org/abs/2312.04142">TimeDRL: Disentangled Representation Learning for Multivariate Time-Series</a>
     <span class="pub-authors"><b>Ching Chang</b>, Chiao-Tung Chan, Wei-Yao Wang, Wen-Chih Peng, Tien-Fu Chen</span>
     <span class="pub-links">{% include scholar_citation_button.html user="OXCVj48AAAAJ" paper="WF5omc3nYNoC" %} <a href="https://github.com/blacksnail789521/TimeDRL"><img src="https://img.shields.io/github/stars/blacksnail789521/TimeDRL?style=social&amp;label=Code+Stars" alt="Code Stars"></a> <a class="pub-link-btn" href="https://youtu.be/LyDl77cS7Ko">Video</a></span>
@@ -404,11 +424,19 @@ a.resume-btn:hover {
 
 </div>
 
+<p class="pub-more" id="pub-more" hidden><button type="button" class="pub-sort-btn" id="pub-more-btn">Show all publications</button></p>
+
 <script>
 (function () {
   var list = document.getElementById('pub-list');
   if (!list) return;
-  var featured = Array.prototype.slice.call(list.querySelectorAll('.pub'));
+  // Source order = curated order. "Featured" shows only the data-featured cards;
+  // "All" shows every card in this order; the other two sort the full list.
+  var cards = Array.prototype.slice.call(list.querySelectorAll('.pub'));
+  var more = document.getElementById('pub-more');
+  var moreBtn = document.getElementById('pub-more-btn');
+  var buttons = document.querySelectorAll('.pub-sort-btn[data-sort]');
+  var current = 'featured';
   var cites = null;
   function yearOf(card) {
     var badge = card.querySelector('.pub-badge');
@@ -431,24 +459,35 @@ a.resume-btn:hover {
     order.forEach(function (c) { list.appendChild(c); });
   }
   function apply(mode) {
+    current = mode;
+    list.classList.toggle('featured-only', mode === 'featured');
+    if (more) more.hidden = mode !== 'featured';
     if (mode === 'year') {
-      reorder(featured.slice().sort(function (a, b) { return yearOf(b) - yearOf(a); }));
+      reorder(cards.slice().sort(function (a, b) { return yearOf(b) - yearOf(a); }));
     } else if (mode === 'citations') {
       loadCites().then(function () {
+        if (current !== 'citations') return; // view changed while the snapshot loaded
         var n = function (c) { return cites[c.getAttribute('data-scholar-id')] || 0; };
-        reorder(featured.slice().sort(function (a, b) { return n(b) - n(a); }));
+        reorder(cards.slice().sort(function (a, b) { return n(b) - n(a); }));
       }).catch(function () { /* crawler snapshot unreachable — keep current order */ });
     } else {
-      reorder(featured.slice());
+      reorder(cards.slice());
     }
   }
-  document.querySelectorAll('.pub-sort-btn').forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      document.querySelectorAll('.pub-sort-btn').forEach(function (b) { b.classList.remove('active'); });
-      btn.classList.add('active');
-      apply(btn.getAttribute('data-sort'));
+  function select(mode) {
+    buttons.forEach(function (b) {
+      b.classList.toggle('active', b.getAttribute('data-sort') === mode);
     });
+    apply(mode);
+  }
+  buttons.forEach(function (btn) {
+    btn.addEventListener('click', function () { select(btn.getAttribute('data-sort')); });
   });
+  if (moreBtn) {
+    moreBtn.textContent = 'Show all ' + cards.length + ' publications';
+    moreBtn.addEventListener('click', function () { select('all'); });
+  }
+  select('featured');
 })();
 </script>
 
